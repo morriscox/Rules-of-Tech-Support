@@ -129,6 +129,7 @@ Rule 404A - If a page is not found, then the entire site|Internet is down.
 
 Rule 99 - It's always Dave or Steve or Kevin.
 
+Rule 100 - The user is always "right"
 
 Users Will...
 
