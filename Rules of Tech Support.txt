@@ -46,7 +46,7 @@ Rule 6A - All users want VIP treatment.
 
 Rule 6B - But they don't ever want to pay for VIP treatment.
 
-Rule 7 - It doesn't matter how much time the user claims something will take. See Rule 1.
+Rule 7 - It doesn't matter how much time the user claims something will take. See *Rule* 1.
 
 Rule 8 - Users never read error messages, if they read anything at all.
 
@@ -54,7 +54,7 @@ Rule 8A - If a user reads an alert or error message, they don't know what to do 
 
 Rule 8B -The more advanced degree a user has, the less likely they are to read anything.
 
-Rule 8C - Users already have a certificate of proficiency in computering.
+Rule 8C - Users already have a certificate of proficiency in computering. See *Link* L6.
 
 Rule 8D - If a user receives an error, when asked what it says, the user will reply: 'I don't know, just an error. I closed it."
 
@@ -82,7 +82,7 @@ Rule 13 - There is nothing so stupid that no one will do.
 
 Rule 13A - Stupid questions do exist.
 
-Rule 14 - Never believe a user who claims that there is nothing that needs to be saved. Also see Rule W10 and W10A.
+Rule 14 - Never believe a user who claims that there is nothing that needs to be saved. Also see *Rules* W10 and W10A.
 
 Rule 15 - Sometimes you need to trick users in order to get the job done.
 
@@ -132,7 +132,7 @@ Rule 34 - Never refer to this Rule by its name.
 
 Rule 42 - You already know the answer.
 
-Rule 69 - Refer to Rule 34.
+Rule 69 - Refer to *Rule* 34.
 
 Rule 80 - If this port is taken, port 443 will be as well.
 
@@ -236,13 +236,13 @@ Rule W22 - If you fix something quickly, the user will not want to pay.
 
 Rule W23 - Users will order stuff they have no clue about.
 
-Rule W23B - They will plug it into your network.
+Rule W23A - They will plug it into your network.
 
-Rule W23C - And demand you support it.
+Rule W23B - And demand you support it.
 
-Rule W23D - While the DHCP server, and the rest of the network, crashes.
+Rule W23C - While the DHCP server, and the rest of the network, crashes.
 
-Rule W23E - This will be your fault.
+Rule W23D - This will be your fault.
 
 Rule W24 - Users will expect you to teach them stuff they should have learned in school.
 
@@ -284,7 +284,7 @@ Rule W32 - Users will hand expensive items to kids, even if it's work property.
 
 Rule W32A - And leave the kid(s) alone with said expensive items.
 
-Rule W32B - And not fix anything that might happen. Also see Rule W18.
+Rule W32B - And not fix anything that might happen. Also see *Rule* W18.
 
 Rule W33 - Users will claim to have credentials that they don't.
 
@@ -346,6 +346,8 @@ Rule W56 - Users will believe every hoax.
 
 Rule W57 - Users will turn things off and NOT back on again.
 
+Rule W58 - Users will be certain that IT has infinite faster/shinier/better gear that they are keeping for themselves.
+
 
 Tech Only
 
@@ -358,7 +360,7 @@ Rule T1B - This is the most important rule.
 
 Rule T2 - Never lie to another tech.
 
-Rule T2A - Unless that tech is the person you're about to blame. See Rule T1A and T25.
+Rule T2A - Unless that tech is the person you're about to blame. See *Rules* T1A and T25.
 
 Rule T2B - Sometimes you will need to lie in order to deal with things like warranty repairs or getting ISPs to do the right thing.
 
@@ -402,9 +404,9 @@ Rule T12 - Updates will be both solutions and banes, usually at the same time.
 
 Rule T13 - Sometimes, you have to nuke everything.
 
-Rule T14 - Always have at least two backup plans. Test them.
+Rule T14 - Backup following the Rule of Three. A backup, a copy of the backup, and a copy of the copy. Test them.
 
-Rule T14A - Try to have at least two backups going at one time in case one has issues. This is in addition to the main rule.
+Rule T14A - Try to have at least two more backups going at one time in case one has issues.
 
 Rule T14B - There is no backup. If there is a backup, it is either corrupt or years out of date.
 
@@ -412,9 +414,9 @@ Rule T14C - If you can't restore from it, you don't have a backup.
 
 Rule T15 - Assume that there are inside threats, even inside IT.
 
-Rule T15A - Don't trust your coworkers. They might be using Rule T2A.
+Rule T15A - Don't trust your coworkers. They might be using *Rule* T2A.
 
-Rule T16 - Unintentional errors are the most dangerous, due to how often they occur.
+Rule T16 - Everyday errors are the most dangerous overall, due to how often they occur.
 
 Rule T17 - Focus on getting things working, then on getting them done right.
 
@@ -442,11 +444,11 @@ Rule T21A - Whenever you have a problem, you will be unable to find a solution u
 
 Rule T21B - If the tech you called in isn't clueless, then you were and your problem has an obvious solution that you completely missed that they will point out seconds after they arrive.
 
-Rule T21C - If none of these apply, the solution will be something random that will make NO SENSE WHATSOEVER to you or the technician.
+Rule T21C - If none of these apply, the solution will be something random that will make no sense whatsoever to you or the technician.
 
 Rule T22 - Vendors will tell you that you need to upgrade to the newest version in order to fix things. If you are on the latest version, they will tell you to wait till the next version.
 
-Rule T22A - If the problem remains reproducible on the latest version, they may tell you to downgrade. Even if you just upgraded per T22.
+Rule T22A - If the problem remains reproducible on the latest version, they may tell you to downgrade. Even if you just upgraded per *Rule* T22.
 
 Rule T22B - It's not a bug, it's an undocumented feature.
 
@@ -476,11 +478,11 @@ Rule T30 - Scheduled updates won't.
 
 Rule T30A- Anything scheduled will break things, especially if you are not available.
 
-Rule T31 - Drivers will drive you bonkers. They are an accomplice to Rule T10A.
+Rule T31 - Drivers will drive you bonkers. They are an accomplice to *Rule* T10A.
 
 Rule T31A - Drivers are the real threat, not hardware.
 
-Rule T31B - Drivers using hardware [heavy machinery] are a real threat. Backhoes/diggers have a magnetic attraction to fiber optics and the drivers have an innate ability to find optical fiber. See Link L4.
+Rule T31B - Drivers using hardware [heavy machinery] are also a real threat. Backhoes/diggers have a magnetic attraction to fiber optics and the drivers have an innate ability to find optical fiber. See *Link* L4.
 
 Rule T32 - Third-Party IT will make configuration overhauls without notifying your company's IT Dept, and then blame your company for problems caused by their configuration mishap.
 
@@ -488,13 +490,13 @@ Rule T33 - No is the answer for every request as long as it's plausible.
 
 Rule T34 - Users will be a lot more cautious if they have to pay upfront. Make sure they pay upfront for as much as you can.
 
-Rule T34A - Make sure that the T is included. Refer to Rule 34A.
+Rule T34A - Make sure that the T is included. Refer to *Rule* 34A.
 
 Rule T35 - Treat your job like a role playing game.
 
-Rule T35A - See Link L1.
+Rule T35A - See *Link* L1.
 
-Rule T35B - See Feedback F5.
+Rule T35B - See *Feedback* F5.
 
 Rule T36 - You are incompetent. You just don't know it. At least, that's what your replacement will think.
 
@@ -502,7 +504,7 @@ Rule T36A - You will have to deal with techs who are incompetent.
 
 Rule T36B - Sometimes, you really are incompetent.
 
-Rule T37 - Don't run stuff that you are not supposed to unless Rule T17 and T17A apply.
+Rule T37 - Don't run stuff that you are not supposed to unless *Rules* T17 and T17A apply.
 
 Rule T38 - The Seventy Maxims of Maximally Effective Mercenaries are always applicable.
 
@@ -510,7 +512,7 @@ Rule T38A - Sometimes the applicability of the Maxims is not immediately obvious
 
 Rule T39 - Use your inner laziness to do the most elegant solution possible.
 
-Rule T40 - Get to know the Dunning-Kruger effect. See Link L3.
+Rule T40 - Get to know the Dunning-Kruger effect. See *Link* L3.
 
 Rule T41 - Every company has a Production environment. If you're lucky, they have a separate Test environment.
 
@@ -600,7 +602,7 @@ OM2 - We the Willing mantra
 We the willing, led by the unknowing
 Did the impossible for the ungrateful
 We have done so much for so long with so little
-That we can now do anything with nothing
+That we can now do anything with nothing.
 
 *****
 
