@@ -1,4 +1,4 @@
-The sections are: Users --- Users Will... --- Tech Only --- Management --- Footnotes --- Links --- Versions --- Changelog. Contributions and feedback are definitely welcome.
+The sections are: Users --- Users Will... --- Tech Only --- Management --- Phrases --- Feedback ---Links --- Versions Contributions and feedback are definitely welcome.
 
 Suggestion: Use the Rules numbers for TLDR sections.
 
@@ -36,6 +36,10 @@ Rule 5 - If you take the time to visit the user's desk, the problem will magical
 
 Rule 5A - Or the solution is bound to be really simple.
 
+Rule 5B - Or the user left the office moments after entering the ticket, and won't be back for days. How long is uncertain as these users never use their calendar.
+
+Rule 5C - Or when they do, they won't have shared it with you or they entered an all-day event as taking an hour.
+
 Rule 6 - All users consider their situation to be more important than others, even if they know you are helping someone else.
 
 Rule 6A - All users want VIP treatment.
@@ -52,7 +56,9 @@ Rule 8B -The more advanced degree a user has, the less likely they are to read a
 
 Rule 8C - Users already have a certificate of proficiency in computering.
 
-Rule 8D - If a user receives an error, when asked what it says, the user will reply 'I don't know, just an error. I closed it."
+Rule 8D - If a user receives an error, when asked what it says, the user will reply: 'I don't know, just an error. I closed it."
+
+Rule 8E - "Isn't it YOUR JOB to know that?"
 
 Rule 9 - Expect any and all jargon and technical terms (such as wireless) will be misunderstood.
 
@@ -92,7 +98,7 @@ Rule 18A - You will be the only one who can actually help the user even though t
 
 Rule 18B - You actually know twice as much as the male techs but get only half the respect.
 
-Rule 18C - Guys will play more attention to your looks/voice than your mind.
+Rule 18C - Guys will pay more attention to your looks/voice than your mind.
 
 Rule 18D - If you are a female tech - You'll get tons of calls from men (specially if you are attractive) who will even disconnect stuff to get you to go to them.
 
@@ -106,7 +112,9 @@ Rule 21 - The most intelligent person you know will be defeated by a mere comput
 
 Rule 21A - Even if it's you.
 
-Rule 22 - The quickest way to find out who responsible for something is to do the scream test. Remove that something and see who complains.
+Rule 22 - The quickest way to find out who is responsible for something is to do the scream test. Remove that something and see who complains.
+
+Rule 22A - If nobody screamed instantly, users may wait until it has been long enough that the thing has been thrown away and can't be recovered any more. Then you will learn that said thing was critical for some task that absolutely has to be done right now, just like every X years.
 
 Rule 23 - Never underestimate the power of the end user to complicate things.
 
@@ -114,6 +122,11 @@ Rule 24 - If it looks different, then it's broken.
 
 Rule 25 - Never give a user options.
 
+Rule 26 - When you receive a ticket, and call the user immediately, they definitely won't be at their desk.
+
+Rule 26A - If you email them they will already be on vacation.
+
+Rule 26B - And the less time that they're in the office, the more urgent their issue is.
 
 Rule 34 - Never refer to this Rule by its name.
 
@@ -128,6 +141,10 @@ Rule 404 - You will never find it. See https://www.xkcd.com/404
 Rule 404A - If a page is not found, then the entire site|Internet is down.
 
 Rule 99 - It's always Dave or Steve or Kevin.
+
+Rule 81N6 - The GoogleBing awaits.
+
+Rule 600613 - Used to go to websites instead of going directly.
 
 
 Users Will...
@@ -158,6 +175,8 @@ Rule W7 - Users will plug cords into places they shouldn't.
 Rule W8 - Users will forget their password (and often their username), even if it's their own name and written down next to them.
 
 Rule W9 - If a document fails to print, users will keep trying just to make sure it prints.
+
+Rule W9A - The true importance of the documents they are trying to print will be inversely proportional to the fit they are throwing.
 
 Rule W10 - Users will store important documents where they shouldn't. The Recycle Bin, the Trash folder, the Deleted Items folders...
 
@@ -217,6 +236,14 @@ Rule W22 - If you fix something quickly, the user will not want to pay.
 
 Rule W23 - Users will order stuff they have no clue about.
 
+Rule W23B - They will plug it into your network.
+
+Rule W23C - And demand you support it.
+
+Rule W23D - While the DHCP server, and the rest of the network, crashes.
+
+Rule W23E - This will be your fault.
+
 Rule W24 - Users will expect you to teach them stuff they should have learned in school.
 
 Rule W24A - That users should have learned in primary school.
@@ -227,7 +254,7 @@ Rule W25 - Users will try to do things like type in uppercase numbers.
 
 Rule W26 - Users will be unable to find the correct button or menu.
 
-Rule W26A - They might not even be on the correct screen, page, or website.
+Rule W26A - They might not even be on the correct screen, page, website, or operating system.
 
 Rule W27 - Users will click on things that say "Click Here!" or "Download Now" just because they think they are supposed to.
 
@@ -237,11 +264,17 @@ Rule W28 - Users will try to use their computer while you are working on it, esp
 
 Rule W28A - Users will get mad that you have to kick them off the computer to fix the problem.
 
+Rule W28B - No matter how important it was that you had to do so.
+
+Rule W28C - Any attempt to justify your actions will just get you in more trouble.
+
 Rule W29 - Users will claim something can't be done, even if you are doing it.
 
 Rule W29A - Users will claim that something impossible worked before.
 
 Rule W29B - Despite all evidence to the contrary, users will insist that things having worked yesterday means they must also be working today.
+
+Rule W29C: In fact, it always worked that way before, even if doing so would have been physically impossible.
 
 Rule W30 - Users will go out of their way not to read or learn something.
 
@@ -293,6 +326,8 @@ Rule W47 - Corporate users will expect you, instead of their boss or training de
 
 Rule W48 - Users will want you to do their job for them.
 
+Rule W48A: And insist that it is, in fact, YOUR job, not theirs.
+
 Rule W49 - Users will complain about your security measures but will claim that you should have done a better job when things go wrong.
 
 Rule W50 - Users will give the wrong name of a product, even with the name right in front of them.
@@ -302,6 +337,14 @@ Rule W51 - Users will confuse you with other/previous techs.
 Rule W52 - Users will refuse to do anything that improves things for them yet go out of their way to make things difficult.
 
 Rule W53 - Users will be confused about how case-sensitive works.
+
+Rule W54 - Users will assume that websites have www as a subdomain unless they are supposed to actually use www.
+
+Rule W55 - Users will not know the phonetic alphabet, and will suggest the worst possible words instead of the real ones. They will also refuse to use the ones you've previously used in the current conversation.
+
+Rule W56 - Users will believe every hoax.
+
+Rule W57 - Users will turn things off and NOT back on again.
 
 
 Tech Only
@@ -317,9 +360,13 @@ Rule T2 - Never lie to another tech.
 
 Rule T2A - Unless that tech is the person you're about to blame. See Rule T1A and T25.
 
+Rule T2B - Sometimes you will need to lie in order to deal with things like warranty repairs or getting ISPs to do the right thing.
+
 Rule T3 - Never assume anything.
 
 Rule T3A - Does the issue even exist?
+
+Rule T3B - Is it even plugged in?
 
 Rule T4 - Don't expect your boss or coworkers or users to understand just what it is that you do.
 
@@ -351,7 +398,7 @@ Rule T11A - Just because it didn't work yesterday does not mean that it won't to
 
 Rule T11B - Things only work when you are paying attention to them.
 
-Rule T12 - Updates will be both solutions and banes, sometimes at the same time.
+Rule T12 - Updates will be both solutions and banes, usually at the same time.
 
 Rule T13 - Sometimes, you have to nuke everything.
 
@@ -393,7 +440,9 @@ Rule T21 - When you need tech support, the tech support person is likely to be c
 
 Rule T21A - Whenever you have a problem, you will be unable to find a solution until just before the tech you called for help arrives.
 
-Rule T21B If the tech you called in isn't clueless, then you were and your problem has an obvious solution that you completely missed that they will point out seconds after they arrive.
+Rule T21B - If the tech you called in isn't clueless, then you were and your problem has an obvious solution that you completely missed that they will point out seconds after they arrive.
+
+Rule T21C - If none of these apply, the solution will be something random that will make NO SENSE WHATSOEVER to you or the technician.
 
 Rule T22 - Vendors will tell you that you need to upgrade to the newest version in order to fix things. If you are on the latest version, they will tell you to wait till the next version.
 
@@ -421,6 +470,8 @@ Rule T29 - Never assume anyone else is smarter than you.
 
 Rule T29A- Never assume you are smarter than anyone else.
 
+Rule T29B - A user's intelligence will always be precisely what is needed for maximum damage.
+
 Rule T30 - Scheduled updates won't.
 
 Rule T30A- Anything scheduled will break things, especially if you are not available.
@@ -428,6 +479,8 @@ Rule T30A- Anything scheduled will break things, especially if you are not avail
 Rule T31 - Drivers will drive you bonkers. They are an accomplice to Rule T10A.
 
 Rule T31A - Drivers are the real threat, not hardware.
+
+Rule T31B - Drivers using hardware [heavy machinery] are a real threat. Backhoes/diggers have a magnetic attraction to fiber optics and the drivers have an innate ability to find optical fiber. See Link L4.
 
 Rule T32 - Third-Party IT will make configuration overhauls without notifying your company's IT Dept, and then blame your company for problems caused by their configuration mishap.
 
@@ -465,11 +518,25 @@ Rule T42 - You might want to consider starting the day with coffee or tea and en
 
 Rule T43 - You might find people who support you. Reciprocate.
 
-Rule T44: When a User Activates the Swedish Fish rule, they get Preferential Treatment!
+Rule T44 - When a User Activates the Swedish Fish rule, they get Preferential Treatment!
 
 Rule T45 - Make sure your fellow techs agree on what Rules to use.
 
 Rule T46 - Like the military says, never volunteer.
+
+Rule T47 - Some bugs are Heisenbugs; they can only occur if they are not being observed. Users do not count as observers.
+
+Rule T48 - Something will be needed right after you get rid of it.
+
+Rule T48A - Once you replace it, you will no longer need it.
+
+Rule T48B - You will buy something and then find out that what you currently have already has what you needed.
+
+Rule T49 - User managed projects will always fail.
+
+Rule T49A - And they will blame you.
+
+Rule T1000 - Buy stock in Boston Dynmanics but sell all of it before 2029.
 
 
 Management
@@ -507,8 +574,37 @@ Rule M9 - If it's free (e.g., open source) or very cheap, management will think 
 
 Rule M10 - Not all management is bad. Seriously.
 
+Rule M11 - Do not, in any circumstances, send private *anything* via email. Especially if you're the CEO.
 
-Feedback
+
+Phrases
+
+
+Rule P1 - Have you tried turning it off and on again?
+
+
+Mantras
+
+OM1 - Mentat Mantra (Dune modified)
+
+It is by caffeine alone I set my mind in motion.
+It is by the beans of Java the thoughts acquire speed.
+The hands acquire shaking.
+The shaking becomes a warning.
+It is by caffeine alone I set my mind in motion.
+
+*****
+
+OM2 - We the Willing mantra
+
+We the willing, led by the unknowing
+Did the impossible for the ungrateful
+We have done so much for so long with so little
+That we can now do anything with nothing
+
+*****
+
+ Feedback
 
 
 Feedback F1 - Should Rule numbers be in the format of <number> (e.g., Rule 8) and <letter><number> (e.g., Rule T32)? That is the current system. Or in <xxx> format (e.g., Rule 201)? Rule 1 would stay Rule 1 in either case, though it would also be Rule 100 with the latter.
@@ -517,18 +613,25 @@ Feedback F2 - Should this list be split into individual posts or stay as one?
 
 Feedback F3 - Only contributions from here and that I come up with independently of any other Reddit are here, per this Reddit's copyright policy.
 
-Feedback F4 - I will post on the first of each month, conditions permitting. The version format will be <month>-<year>.
+Feedback F4 - I will post on the first of each month, conditions permitting, with at least one revised version within a week to address feedback. The version format will be YYYY-MM-DD, including for changelogs. No changelogs on GitHub.
 
 Feedback F5 - A set of tech support RPG cards (or a rulebook) would be awesome. Anyone willing to join forces?
 
 
 Links
 
+
 Link L1 - http://reddit.com/r/talesfromtechsupport/comments/7idbjn/a_little_googling_helps_soothe_the_heart/dqzi82m
 
 Link L2 - http://schlockmercenary.wikia.com/wiki/The_Seventy_Maxims_of_Maximally_Effective_Mercenaries
 
 Link L3 - https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
+
+Link L4 - https://github.com/morriscox/Rules-of-Tech-Support/
+
+Link L5 - https://web.archive.org/web/20170719212029/http://www.scp-wiki.net:80/scp-3709
+
+Link L6 - http://www.diploma-degree.com/111753-Certificate-of-Proficiency-in-Computering
 
 
 Previous versions
@@ -540,14 +643,6 @@ PV2 - https://www.reddit.com/r/talesfromtechsupport/comments/7efnva/rules_of_tec
 
 PV3 - https://www.reddit.com/r/talesfromtechsupport/comments/7iqhnq/rules_of_tech_support_version_3/
 
+PV4 - https://www.reddit.com/r/talesfromtechsupport/comments/81ce8r/rules_of_tech_support_version_4_or_032018/
 
-Changelogs
 
-
-Changelog 0318 - Modified 27A, 69, 99, W30, W48, T39, T41, M7B, F4. Added 23, 24, 25, 99A, W16A, W17B, W18D, W18DD, W26A, W52, W53, T35B, T44, T45, T46, M7B, M8, M9, M10, F5, PV3.
-
-Changelog 122017 - Removed F1 and L2. Moved T40 to 2B, L3 to L2. Modified Intro, T2A. Changed name of the Footnote section to Feedback. Replaced "an" with "a". Added 22, W50, W51, T40, T41, T42, T43, M7, F2, F3, F4. Fixed formatting for 9, W48.
-
-Changelog 121117 - Added 2A, 6B, 8D, 13A, 21A, 29B, W18D, W24B, W36A, W44-W49, T2A, T4A, T15A, T22A, T22B, T31A, T23A, T38-T40, M3B. Modified T37. Added Footnote, Links, and Versions sections.
-
-Changelog 120917 - Added Rules 21, 42, 99, W40, W41, W42, T35, T36. Modified Intro, W5C. Added Management and Changelog sections.  Moved T17 to M2. Moved T23 to M3. Moved T23C to M4. Moved T38 to M1. Rules below T17 have new numbers.
