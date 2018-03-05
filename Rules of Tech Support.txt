@@ -350,6 +350,8 @@ Rule W57 - Users will turn things off and NOT back on again.
 
 Rule W58 - Users will be certain that IT has infinite faster/shinier/better gear that they are keeping for themselves.
 
+Rule W59 - Users will believe that it's safe to connect anything to the Internet.
+
 
 Tech Only
 
