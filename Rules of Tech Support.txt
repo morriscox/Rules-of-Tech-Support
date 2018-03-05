@@ -56,7 +56,7 @@ Rule 8B -The more advanced degree a user has, the less likely they are to read a
 
 Rule 8C - Users already have a certificate of proficiency in computering. See *Link* L6.
 
-Rule 8D - If a user receives an error, when asked what it says, the user will reply: 'I don't know, just an error. I closed it."
+Rule 8D - If a user receives an error, when asked what it says, the user will reply: "I don't know, just an error. I closed it."
 
 Rule 8E - "Isn't it YOUR JOB to know that?"
 
@@ -82,7 +82,7 @@ Rule 13 - There is nothing so stupid that no one will do.
 
 Rule 13A - Stupid questions do exist.
 
-Rule 14 - Never believe a user who claims that there is nothing that needs to be saved. Also see *Rules* W10 and W10A.
+Rule 14 - Never believe a user who claims that there is nothing that needs to be saved. See *Rules* W10 and W10A.
 
 Rule 15 - Sometimes you need to trick users in order to get the job done.
 
@@ -100,7 +100,7 @@ Rule 18B - You actually know twice as much as the male techs but get only half t
 
 Rule 18C - Guys will pay more attention to your looks/voice than your mind.
 
-Rule 18D - If you are a female tech - You'll get tons of calls from men (specially if you are attractive) who will even disconnect stuff to get you to go to them.
+Rule 18D - You'll get tons of calls from men (specially if you are attractive) who will even disconnect stuff to get you to go to them.
 
 Rule 18DD - Women will cause IT problems to keep you away from men.
 
@@ -122,11 +122,13 @@ Rule 24 - If it looks different, then it's broken.
 
 Rule 25 - Never give a user options.
 
-Rule 26 - When you receive a ticket, and call the user immediately, they definitely won't be at their desk.
+Rule 26 - When you receive a ticket and call the user immediately they definitely won't be at their desk.
 
 Rule 26A - If you email them they will already be on vacation.
 
-Rule 26B - And the less time that they're in the office, the more urgent their issue is.
+Rule 26B - The less time that they're in the office, the more urgent their issue is.
+
+
 
 Rule 34 - Never refer to this Rule by its name.
 
@@ -153,6 +155,8 @@ Users Will...
 Rule W1 - Users will never follow instructions.
 
 Rule W2 - No matter how much skill and knowledge and experience you have, users will claim they know more than you.
+
+Rule W2A - No matter how much skill and knowledge and experience you have, users will claim others know more than you.
 
 Rule W3 - Users will always try to talk with your manager.
 
@@ -252,7 +256,7 @@ Rule W24B - Users will think that a single course is sufficent.
 
 Rule W25 - Users will try to do things like type in uppercase numbers.
 
-Rule W26 - Users will be unable to find the correct button or menu.
+Rule W26 - Users will be unable to find the correct button or menu. Or correct anything.
 
 Rule W26A - They might not even be on the correct screen, page, website, or operating system.
 
@@ -284,13 +288,11 @@ Rule W32 - Users will hand expensive items to kids, even if it's work property.
 
 Rule W32A - And leave the kid(s) alone with said expensive items.
 
-Rule W32B - And not fix anything that might happen. Also see *Rule* W18.
+Rule W32B - And not fix anything that might happen. See *Rule* W18.
 
 Rule W33 - Users will claim to have credentials that they don't.
 
 Rule W34 - Users will use jargon in an attempt to make it seem that they know what they are talking about.
-
-Rule W34A - Make sure the W is always included.
 
 Rule W35 - Users will insist on not using products that are better than what they are currently using.
 
@@ -458,7 +460,7 @@ Rule T23A - You aren't paranoid. They really are out to get you.
 
 Rule T24 - Every tech has their own set of Rules, even if they don't know it.
 
-Rule T25 - Every tech is also an user.
+Rule T25 - Every tech is also a user.
 
 Rule T26 - Never make changes before going on vacation.
 
@@ -490,8 +492,6 @@ Rule T33 - No is the answer for every request as long as it's plausible.
 
 Rule T34 - Users will be a lot more cautious if they have to pay upfront. Make sure they pay upfront for as much as you can.
 
-Rule T34A - Make sure that the T is included. Refer to *Rule* 34A.
-
 Rule T35 - Treat your job like a role playing game.
 
 Rule T35A - See *Link* L1.
@@ -520,7 +520,7 @@ Rule T42 - You might want to consider starting the day with coffee or tea and en
 
 Rule T43 - You might find people who support you. Reciprocate.
 
-Rule T44 - When a User Activates the Swedish Fish rule, they get Preferential Treatment!
+Rule T44 - When a user activates the Swedish Fish rule, they get preferential treatment.
 
 Rule T45 - Make sure your fellow techs agree on what Rules to use.
 
@@ -537,6 +537,12 @@ Rule T48B - You will buy something and then find out that what you currently hav
 Rule T49 - User managed projects will always fail.
 
 Rule T49A - And they will blame you.
+
+Rule T50 - You will complain about something and then realize that you are the one that is guilty.
+
+Rule T51 - You will find yourself putting out fire after fire without any chance to document anything.
+
+Rule T52 - Cables look just like ropes...
 
 Rule T1000 - Buy stock in Boston Dynmanics but sell all of it before 2029.
 
@@ -568,7 +574,7 @@ Rule M7A - Management will then become outraged that said tasks were not complet
 
 Rule M7B - Management will blame you when things do not work.
 
-Rule M7C - "Management will blame you if anything that was completed does not meet their expectations (they won't), no matter how difficult they were."
+Rule M7C - Management will blame you if anything that was completed does not meet their expectations (they won't), no matter how difficult they were.
 
 Rule M8 - If a project makes sense, something is wrong.
 
@@ -578,11 +584,15 @@ Rule M10 - Not all management is bad. Seriously.
 
 Rule M11 - Do not, in any circumstances, send private *anything* via email. Especially if you're the CEO.
 
+Rule M12 - You will never get interviewed by anyone who will actually understand your answers.
+
 
 Phrases
 
 
 Rule P1 - Have you tried turning it off and on again?
+
+Rule P2 - Is it plugged in?
 
 
 Mantras
@@ -618,6 +628,10 @@ Feedback F3 - Only contributions from here and that I come up with independently
 Feedback F4 - I will post on the first of each month, conditions permitting, with at least one revised version within a week to address feedback. The version format will be YYYY-MM-DD, including for changelogs. No changelogs on GitHub.
 
 Feedback F5 - A set of tech support RPG cards (or a rulebook) would be awesome. Anyone willing to join forces?
+
+Feedback F6 - Planning on moving changelogs and links to previous versions to GitHub.
+
+Feedback F7 - Suggestions for new sections?
 
 
 Links
