@@ -132,6 +132,9 @@ Created from and contributed to by the users of /r/talesfromtechsupport
 
 **Rule 26B** - The less time that they're in the office, the more urgent their issue is.
 
+##Rule 27 - Watch out for Finagle's Law which states that 'Anything that can go wrong, will—at the worst possible moment.'
+
+
 *****
 
 ##Rule 34 - Never refer to this Rule by its name.
@@ -658,6 +661,8 @@ That we can now do anything with nothing.
 
 ##Feedback F7 - Suggestions for new sections?
 
+##Feedback F8 - Should I make changes/additions on GitHub and just post on TFTS the version that is current as of the first day of the month? That would make it easier to see what is new or corrected and still allow people to catch up without having to deal with GitHub.
+
 *****
 *****
 
@@ -699,6 +704,8 @@ That we can now do anything with nothing.
 
 *****
 *****
+
+**Changelog 2018-03-05** - Added 27, F8.
 
 **Changelog 2018-03-04** - Modified 14, 26, 8D, 18D, W26, T25, T44, M7C. Removed W34A, T34A. Added 26B, W2A, W59, T50, T51, T52, M12, P2. Simplified Reddit format for Rule numbers. Date error in post title noted.
 
