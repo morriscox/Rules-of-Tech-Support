@@ -80,7 +80,7 @@ Created from and contributed to by the users of /r/talesfromtechsupport
 
 ##Rule 12 - No system is idiot-proof enough to best all users.
 
-**Rule 12A - If you haven't found an user able to best your system, it's because they haven't found you yet.
+**Rule 12A** - If you haven't found an user able to best your system, it's because they haven't found you yet.
 
 ##Rule 13 - There is nothing so stupid that no one will do.
 
@@ -556,6 +556,8 @@ Created from and contributed to by the users of /r/talesfromtechsupport
 ##Rule T51 - You will find yourself putting out fire after fire without any chance to document anything.
 
 ##Rule T52 - Cables look just like ropes...
+
+*****
 
 ##Rule T1000 - Buy stock in Boston Dynmanics but sell all of it before 2029.
 
