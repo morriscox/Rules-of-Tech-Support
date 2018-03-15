@@ -560,6 +560,8 @@ Created from and contributed to by the users of /r/talesfromtechsupport
 
 ##Rule T52 - Cables look just like ropes...
 
+##Rule T53 - Finagle's law of dynamic negatives is always in operation (Link L7)
+
 *****
 
 ##Rule T1000 - Buy stock in Boston Dynmanics but sell all of it before 2029.
@@ -683,6 +685,8 @@ That we can now do anything with nothing.
 
 **Link L6 - http://www.diploma-degree.com/111753-Certificate-of-Proficiency-in-Computering
 
+**Link L7 - https://en.wikipedia.org/wiki/Finagle%27s_law
+
 *****
 
 #**Previous versions**
@@ -718,5 +722,3 @@ That we can now do anything with nothing.
 **Changelog 121117** - Added 2A, 6B, 8D, 13A, 21A, 29B, W18D, W24B, W36A, W44-W49, T2A, T4A, T15A, T22A, T22B, T31A, T23A, T38-T40, M3B. Modified T37. Added Footnote, Links, and Versions sections.
 
 **Changelog 120917** - Added Rules 21, 42, 99, W40, W41, W42, T35, T36. Modified Intro, W5C. Added Management and Changelog sections.  Moved T17 to M2. Moved T23 to M3. Moved T23C to M4. Moved T38 to M1. Rules below T17 have new numbers.
-
-
