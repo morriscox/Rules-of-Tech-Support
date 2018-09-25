@@ -128,7 +128,7 @@ Rule 26A - If you email them they will already be on vacation.
 
 Rule 26B - The less time that they're in the office, the more urgent their issue is.
 
-Rule 27 - Watch out for Finagle's Law which states that 'Anything that can go wrong, will — at the worst possible moment.'
+Rule 27 - Watch out for Finagle's Law which states that 'Anything that can go wrong, will â€” at the worst possible moment.'
 
 
 Rule 34 - Never refer to this *Rule* by its name.
@@ -648,7 +648,7 @@ Link L3 - https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
 
 Link L4 - https://github.com/morriscox/Rules-of-Tech-Support/
 
-Link L5 - https://web.archive.org/web/20170719212029/http://www.scp-wiki.net:80/scp-3709
+Link L5 - http://scpsandbox2.wikidot.com/doomscrye
 
 Link L6 - http://www.diploma-degree.com/111753-Certificate-of-Proficiency-in-Computering
 
