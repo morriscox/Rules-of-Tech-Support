@@ -1,0 +1,43 @@
+Tech Support rules for dealing with management.
+
+****
+
+Rule M1 - Management might find these rules. Plead ignorance.
+
+Rule M2 - Never believe anything management tells you.
+
+Rule M2A - Especially if a merger or bad news is involved.
+
+Rule M3 - Management will order stuff they have no clue about.
+
+Rule M3A - Management will expect the thing they bought to work perfectly out of the box.
+
+Rule M3B -You will be blamed when it doesn't work.
+
+Rule M4 - Management will be puzzled as to why you have no clue about the thing they have no clue about...
+
+Rule M5 - Management will expect you to be up to speed on their under-the table projects, with decisions based only on what the salesman says, without consulting IT.
+
+Rule M6 - Your boss will not have a tech background.
+
+Rule M7 - Management will present impossible tasks to be done.
+
+Rule M7A - Management will then become outraged that said tasks were not completed.
+
+Rule M7B - Management will blame you when things do not work.
+
+Rule M7C - Management will blame you if anything that was completed does not meet their expectations (they won't), no matter how difficult they were.
+
+Rule M8 - If a project makes sense, something is wrong.
+
+Rule M9 - If it's free (e.g., open source) or very cheap, management will think that it cannot be as good as the commercial stuff.
+
+Rule M10 - Not all management is bad. Seriously.
+
+Rule M11 - Do not, in any circumstances, send private *anything* via email. Especially if you're the CEO.
+
+Rule M12 - You will never get interviewed by anyone who will actually understand your answers.
+
+
+*****
+

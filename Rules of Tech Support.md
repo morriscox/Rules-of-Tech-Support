@@ -128,10 +128,10 @@ Rule 26A - If you email them they will already be on vacation.
 
 Rule 26B - The less time that they're in the office, the more urgent their issue is.
 
-Rule 27 - Watch out for Finagle's Law which states that 'Anything that can go wrong, will—at the worst possible moment.'
+Rule 27 - Watch out for Finagle's Law which states that 'Anything that can go wrong, will — at the worst possible moment.'
 
 
-Rule 34 - Never refer to this Rule by its name.
+Rule 34 - Never refer to this *Rule* by its name.
 
 Rule 42 - You already know the answer.
 
@@ -632,11 +632,9 @@ Feedback F4 - I will post on the first of each month, conditions permitting, wit
 
 Feedback F5 - A set of tech support RPG cards (or a rulebook) would be awesome. Anyone willing to join forces?
 
-Feedback F6 - Planning on moving changelogs and links to previous versions to GitHub.
+Feedback F6 - Moving changelogs to GitHub for easier tracking of changes. Monthly snapshots will be posted on the first, conditions permitting.
 
 Feedback F7 - Suggestions for new sections?
-
-##Feedback F8 - Should I make changes/additions on GitHub and just post on TFTS the version that is current as of the first day of the month? That would make it easier to see what is new or corrected and still allow people to catch up without having to deal with GitHub.
 
 
 Links

@@ -132,12 +132,12 @@ Created from and contributed to by the users of /r/talesfromtechsupport
 
 **Rule 26B** - The less time that they're in the office, the more urgent their issue is.
 
-##Rule 27 - Watch out for Finagle's Law which states that 'Anything that can go wrong, will—at the worst possible moment.'
+##Rule 27 - Watch out for Finagle's Law which states that 'Anything that can go wrong, will — at the worst possible moment.'
 
 
 *****
 
-##Rule 34 - Never refer to this Rule by its name.
+##Rule 34 - Never refer to this **Rule** by its name.
 
 ##Rule 42 - You already know the answer.
 
@@ -546,6 +546,8 @@ Created from and contributed to by the users of /r/talesfromtechsupport
 
 ##Rule T47 - Some bugs are Heisenbugs; they can only occur if they are not being observed. Users do not count as observers.
 
+##Rule T48 - Something will be needed right after you get rid of it.
+
 **Rule T48A** - Once you replace it, you will no longer need it.
 
 ##Rule T48B** - You will buy something and then find out that what you currently have already has what you needed.
@@ -559,8 +561,6 @@ Created from and contributed to by the users of /r/talesfromtechsupport
 ##Rule T51 - You will find yourself putting out fire after fire without any chance to document anything.
 
 ##Rule T52 - Cables look just like ropes...
-
-##Rule T53 - Finagle's law of dynamic negatives is always in operation (Link L7)
 
 *****
 
@@ -659,11 +659,9 @@ That we can now do anything with nothing.
 
 ##Feedback F5 - A set of tech support RPG cards (or a rulebook) would be awesome. Anyone willing to join forces?
 
-##Feedback F6 - Planning on moving changelogs and links to previous versions to GitHub.
+##Feedback F6 - Moving changelogs to GitHub for easier tracking of changes. Monthly snapshots will be posted on the first, conditions permitting.
 
 ##Feedback F7 - Suggestions for new sections?
-
-##Feedback F8 - Should I make changes/additions on GitHub and just post on TFTS the version that is current as of the first day of the month? That would make it easier to see what is new or corrected and still allow people to catch up without having to deal with GitHub.
 
 *****
 *****
@@ -685,8 +683,6 @@ That we can now do anything with nothing.
 
 **Link L6 - http://www.diploma-degree.com/111753-Certificate-of-Proficiency-in-Computering
 
-**Link L7 - https://en.wikipedia.org/wiki/Finagle%27s_law
-
 *****
 
 #**Previous versions**
@@ -703,22 +699,3 @@ That we can now do anything with nothing.
 
 *****
 *****
-
-#**Changelogs**
-
-*****
-*****
-
-**Changelog 2018-03-05** - Added 27, F8.
-
-**Changelog 2018-03-04** - Modified 14, 26, 8D, 18D, W26, T25, T44, M7C. Removed W34A, T34A. Added 26B, W2A, W59, T50, T51, T52, M12, P2. Simplified Reddit format for Rule numbers. Date error in post title noted.
-
-**Changelog 2018-03-03** - Modified Intro, 5B, 5C, 8D, 18C, 18D, 22, W26A, T2B, T12, T14, T14A, T16, T21B, T44, F4. Added 8E, 22A, 26, 26A, B1N6, W9A, W23-W23D, W23C, W54-W58, T3B, T29B, T31B, T47-T49A, T1000, M11, P1, OM1, OM2, F6, F7, L4, L5. Added Phrases and Mantras section. Bolded or italicized references to other Rules.
-
-**Changelog 0318** - Modified 27A, 69, 99, W30, W48, T39, T41, M7B. Feedback F4. Added 23, 24, 25, 99A, W16A, W17B, W18D, W18DD, W26A, W52, W53, T35B, T44, T45, T46, M7B, M8, M9, M10, F5, PV3.
-
-**Changelog 122017** - Removed F1 and L2. Moved T40 to 2B, L3 to L2. Modified Intro, T2A. Changed name of the Footnote section to Feedback. Replaced "an" with "a". Added 22, W50, W51, T40, T41, T42, T43, M7, F2, F3, F4. Fixed formatting for 9, W48.
-
-**Changelog 121117** - Added 2A, 6B, 8D, 13A, 21A, 29B, W18D, W24B, W36A, W44-W49, T2A, T4A, T15A, T22A, T22B, T31A, T23A, T38-T40, M3B. Modified T37. Added Footnote, Links, and Versions sections.
-
-**Changelog 120917** - Added Rules 21, 42, 99, W40, W41, W42, T35, T36. Modified Intro, W5C. Added Management and Changelog sections.  Moved T17 to M2. Moved T23 to M3. Moved T23C to M4. Moved T38 to M1. Rules below T17 have new numbers.
