@@ -163,7 +163,7 @@ them until the place catches fire, then complain about incomplete documentation.
 
 **Rule 50A**: Anything scheduled will break things, especially if you are not available. - /user/it_intern_throw
 
-**Rule 51B**: Drivers using hardware [heavy machinery] are also a real threat. Backhoes/diggers have a magnetic attraction to fiber optics and the drivers have an innate ability to find optical fiber. See *Link L4*. - /user/techtornado
+**Rule 51B**: Drivers using hardware [heavy machinery] are also a real threat. Backhoes/diggers have a magnetic attraction to fiber optics and the drivers have an innate ability to find optical fiber. - /user/techtornado
 
 #### Rule 52: No is the answer for every request as long as it's plausible. - /user/zztri
 
@@ -410,7 +410,7 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule T9: Backup following the Rule of Three. A backup, a copy of the backup, and a copy of the copy. Test them. - /user/morriscox
 
-**Rule T9A**: Consider using other backup strategies. See *Link TL1*
+**Rule T9A**: Consider using other backup strategies.
 
 **Rule T9C**: If you can't restore from it, you don't have a backup. - /user/Alkalannar
 

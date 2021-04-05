@@ -231,9 +231,7 @@
 
 #### Rule 52 - No is the answer for every request as long as it's plausible.
 
-#### Rule 53 - Treat your job like a role playing game.
-
-**Rule 534A** - [*Link L3*](http://reddit.com/r/talesfromtechsupport/comments/7idbjn/a_little_googling_helps_soothe_the_heart/dqzi82m).
+#### Rule 53 - Treat your job like a role playing game. [*Link L3*](http://reddit.com/r/talesfromtechsupport/comments/7idbjn/a_little_googling_helps_soothe_the_heart/dqzi82m).
 
 #### Rule 54 - Don't run stuff that you are not supposed to unless *Rule 37* and *Rule 37A* apply.
 

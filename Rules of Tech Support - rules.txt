@@ -184,7 +184,7 @@ Rule 38A - If you can't find a relevant xkcd, it's because you haven't looked ha
 
 Rule 38B - If there is no relevant xkcd, there is always a relevant Dilbert strip.
 
-Rule 38C - If there is no relevant xkcd or Dilbert strip, there's a relevant entry in The Seventy Maxims of Maximally Effective Mercenaries.
+Rule 38C - If there is no relevant xkcd or Dilbert strip, there's a relevant entry in The Seventy Maxims of Maximally Effective Mercenaries. See *Link L1*
 
 Rule 38D - If you can't find a relevant xkcd, Dilbert, or Maxim, your problem does not exist.
 
@@ -226,25 +226,23 @@ Rule 50 - Scheduled updates won't.
 
 Rule 50A - Anything scheduled will break things, especially if you are not available.
 
-Rule 51 - Drivers will drive you bonkers, if you can even find them. Even if you can find them they may not be compatible.
+Rule 51 - Drivers will drive you bonkers, if you can even find them. Even if you can find them they may not be compatible. See *Link L2*.
 
 Rule 51A - Drivers are the real threat, not hardware.
 
-Rule 51B - Drivers using hardware [heavy machinery] are also a real threat. Backhoes/diggers have a magnetic attraction to fiber optics and the drivers have an innate ability to find optical fiber. See *Link L4*.
+Rule 51B - Drivers using hardware [heavy machinery] are also a real threat. Backhoes/diggers have a magnetic attraction to fiber optics and the drivers have an innate ability to find optical fiber. See *Link L2*.
 
 Rule 52 - No is the answer for every request as long as it's plausible.
 
-Rule 53 - Treat your job like a role playing game.
-
-Rule 534A - See *Link L1*.
+Rule 53 - Treat your job like a role playing game. See *Link L3*.
 
 Rule 54 - Don't run stuff that you are not supposed to unless *Rule 37* and *Rule 37A* apply.
 
-Rule 55 - The Seventy Maxims of Maximally Effective Mercenaries are always applicable.
+Rule 55 - The Seventy Maxims of Maximally Effective Mercenaries are always applicable. See *Link L1*.
 
 Rule 55A - Sometimes the applicability of the Maxims is not immediately obvious.
 
-Rule 56 - Get to know the Dunning-Kruger effect. See *Link L3*.
+Rule 56 - Get to know the Dunning-Kruger effect. See *Link L4*.
 
 Rule 57 - You might want to consider starting the day with coffee or tea and ending with whiskey or scotch or bourbon or beer...
 
@@ -325,11 +323,11 @@ Rule 600613 - Used to go to websites instead of going directly.
 -----
  Links
 
-Link L1 - http://reddit.com/r/talesfromtechsupport/comments/7idbjn/a_little_googling_helps_soothe_the_heart/dqzi82m
 
-Link L2 - http://schlockmercenary.wikia.com/wiki/The_Seventy_Maxims_of_Maximally_Effective_Mercenaries
+Link L1 - http://schlockmercenary.wikia.com/wiki/The_Seventy_Maxims_of_Maximally_Effective_Mercenaries
 
-Link L3 - https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
+Link L2 - http://scpsandbox2.wikidot.com/doomscrye
 
-Link L4 - http://scpsandbox2.wikidot.com/doomscrye
+Link L3 - http://reddit.com/r/talesfromtechsupport/comments/7idbjn/a_little_googling_helps_soothe_the_heart/dqzi82m
 
+Link L4 - https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
