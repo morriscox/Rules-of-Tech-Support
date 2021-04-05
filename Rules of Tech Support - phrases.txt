@@ -1,8 +1,6 @@
-Questions that users are constantly asked or are things commonly said to them.
-
 *****
 
-Phrases
+Phrases by tech support
 
 *****
 Phrase P1 - "Have you tried turning it off and on again?"
