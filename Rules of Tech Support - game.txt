@@ -1,0 +1,9 @@
+ Game Rules (extremely WIP)
+
+Higher Rule numbers are better than lower Rule numbers except for Rule #1.
+A sub-Rule is better than the main Rule.
+
+XP bar. Cutscene. Save point. NPCs.
+
+User neutralized - Earn 5 XP.
+
