@@ -62,5 +62,5 @@ Rule M20 - Management will have you do their job for them.
 
 Rule M21 - Management will take away your tools and expect you to use the same equipment as every one else and yet expect you to do your job anyway.
 
-Rule M22 - Being a tech in management doesn't make you exempt from the Rules, except for *Rule M1*.
+Rule M22 - Being a tech in management doesn't make you exempt from the Rules, even *Rule M1* (when it comes to dealing with upper management).
 

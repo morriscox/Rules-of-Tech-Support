@@ -499,7 +499,7 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule M21: Management will take away your tools and expect you to use the same equipment as every one else and yet expect you to do your job anyway. - /user/u/LowBudgetViking
 
-#### Rule M22: Being a tech in management doesn't make you exempt from the Rules except for *Rule M1*. - /user/morriscox
+#### Rule M22: Being a tech in management doesn't make you exempt from the Rules, even *Rule M1* (when it comes to dealing with upper management). - /user/morriscox
 *****
 # Mantras
 
