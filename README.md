@@ -28,7 +28,7 @@ Questions and statements by tech support. Not to be shared with users.
 ## Mantras
 A tech version of meditations. Ommm...
 ***
-## Versions post on the TFTS reddit
+## Versions posted on the TFTS reddit
 
 **PV1** - https://www.reddit.com/r/talesfromtechsupport/comments/7ddtpq/rules_of_tech_support_with_credits/
 
