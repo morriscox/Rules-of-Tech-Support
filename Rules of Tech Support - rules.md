@@ -69,7 +69,7 @@
 
 #### Rule 11 - No system is idiot-proof enough to best all users.
 
-**Rule 11A** - If you haven't found an user able to best your system, it's because they haven't found you yet.
+**Rule 11A** - If you haven't found a user able to best your system, it's because they haven't found you yet.
 
 #### Rule 12 - There is nothing so stupid that no one will do.
 
@@ -83,7 +83,7 @@
 
 #### Rule 15 - Users care more about things working than in how you pulled it off.
 
-#### Rule 16 - An user's appreciation for your work is inversely proportional to how difficult it was.
+#### Rule 16 - A user's appreciation for your work is inversely proportional to how difficult it was.
 
 #### Rule 17 - If you have an accent, then you will be perceived to be in a foreign country.
 
@@ -185,7 +185,7 @@
 
 **Rule 38D** - If you can't find a relevant xkcd, Dilbert, or Maxim, your problem does not exist.
 
-#### Rule 39 - You and your work will never be appreciated by users since if you did your job right, none of these problems would have happened.
+#### Rule 39 - You and your work will never be appreciated since if you did your job right, none of these problems would have happened.
 
 #### Rule 40 - All IT urban legends are true.
 
@@ -305,9 +305,12 @@
 
 #### Rule 82 - Temporary solutions aren't.
 
-#### Rule 83 - Every company has a Production environment. If you're lucky, they have a separate Test environment.
+#### Rule 83 - Rule 83 - Every company has a Production environment and a Testing environment. If you're lucky, they are separate environments.
+
 
 #### Rule 84 - Users already have a certificate of proficiency in computering.
+
+Rule 85 - Everyone is a user. Even you.
 
 
 #### Rule 81N6 - The GoogleBing awaits.
