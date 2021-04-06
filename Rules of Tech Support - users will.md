@@ -268,6 +268,6 @@
 
 #### Rule W82 - Users will think that if one thing works then everything else will.
 
-#### Rule W83 - Users will ask you questions about things that you don't know exist.
+#### Rule W83 - Users will ask you questions about things that you didn't even know existed.
 
 #### Rule W84 - Users will mash buttons until errors go away.
