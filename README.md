@@ -38,4 +38,5 @@ A tech version of meditations. Ommm...
 
 **PV4** - https://www.reddit.com/r/talesfromtechsupport/comments/81ce8r/rules_of_tech_support_version_4_or_032018/
 
+**PV5** - https://www.reddit.com/r/talesfromtechsupport/comments/mkud9j/rules_of_tech_support_20210405/
 *****
