@@ -174,7 +174,7 @@ Rule W43 - Users will repeatedly need help with the same task.
 
 Rule W44 - Users will store stuff in places other than you ask them to, if they can.
 
-Rule W45 - Users will either ask for at every step what they should do.
+Rule W45 - Users will either ask for help at every step what they should do.
 
 Rule W45A - Or do things they shouldn't do without asking.
 
