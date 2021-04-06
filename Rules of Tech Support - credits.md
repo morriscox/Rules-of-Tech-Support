@@ -38,6 +38,8 @@
 
 #### Rule 7: It doesn't matter how much time the user claims something will take. See *Rule 1*. - /user/morriscox
 
+**Rule 8C**: They will give the wrong error message. /user/morriscox
+
 **Rule 9B**: All jargon is the same to users. - /user/Wrestles4Food
 
 #### Rule 10: About half of tech support is solving issues that are only partially related to what we are supposed to fix. - /user/Mystrsyko
@@ -93,6 +95,8 @@
 **Rule 30C:** If a document fails to print, they will keep trying just to make sure it prints. - /user/ZombieLHKWoof
 
 **Rule 30D**: The true importance of the documents they are trying to print will be inversely proportional to the fit they are throwing. - /user/Adventux
+
+**Rule 30E**: Users will mash buttons and go through random menus and do random actions until errors go away or the printer is messed up. See also *Rule W93*. - /user/ozzie286
 
 #### Rule 32: If you are a female tech, users will ask to speak to a man. - /user/DRLAR
 
@@ -383,7 +387,10 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule W82: Users will think that if one thing works then everything else will. - /user/ContentBug2
 
-#### Rule W93 - User will ask you questions about things that you don't know exist. /user/JAJohnson324
+#### Rule W83 - Users will ask you questions about things that you don't know exist. /user/JAJohnson324
+
+#### Rule W84 - Users will mash buttons until errors go away. - /user/ozzie286
+
 
 *****
 # Techs

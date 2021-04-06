@@ -51,7 +51,7 @@
 
 **Rule 8B** - The more advanced degree a user has, the less likely they are to read anything.
 
-**Rule 8C** - Users already have a certificate of proficiency in computering.
+**Rule 8C** - They will give the wrong error message.
 
 **Rule 8D** - If a user receives an error, when asked what it says, the user will reply: "I don't know, just an error. I closed it."
 
@@ -134,6 +134,8 @@
 **Rule 30C** - If a document fails to print, users will keep trying just to make sure it prints.
 
 **Rule 30D** - The true importance of the documents they are trying to print will be inversely proportional to the fit they are throwing.
+
+**Rule 30E** - Users will mash buttons and go through random menus and do random actions until errors go away or the printer is messed up. See also *Rule W84*.
 
 #### Rule 31 - All user provided information must be verified.
 
@@ -305,6 +307,7 @@
 
 #### Rule 83 - Every company has a Production environment. If you're lucky, they have a separate Test environment.
 
+#### Rule 84 - Users already have a certificate of proficiency in computering.
 
 
 #### Rule 81N6 - The GoogleBing awaits.

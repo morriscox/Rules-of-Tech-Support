@@ -28,9 +28,9 @@
 
 #### Rule W8 - Users will forget their password (and often their username), even if it's their own name and written down next to them.
 
-#### Rule W9 - If a document fails to print, users will keep trying just to make sure it prints.
+#### Rule W9 - If a document fails to print, users will keep trying just to make sure it prints. (Same as *Rule 30C*.)
 
-**Rule W9A** - The true importance of the documents they are trying to print will be inversely proportional to the fit they are throwing.
+**Rule W9A** - The true importance of the documents they are trying to print will be inversely proportional to the fit they are throwing. (Same as *Rule 30C*.)
 
 #### Rule W10 - Users will store important documents where they shouldn't. The Recycle Bin, the Trash folder, the Deleted Items folders...
 
@@ -267,4 +267,7 @@
 #### Rule W81 - Users will think that your software/setup is responsible for any issues they face.
 
 #### Rule W82 - Users will think that if one thing works then everything else will.
-Rule W93 - User will ask you questions about things that you don't know exist.
+
+#### Rule W83 - Users will ask you questions about things that you don't know exist.
+
+#### Rule W84 - Users will mash buttons until errors go away.

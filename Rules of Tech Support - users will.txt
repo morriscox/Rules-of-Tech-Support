@@ -272,4 +272,6 @@ Rule W81 - Users will think that your software/setup is responsible for any issu
 
 Rule W82 - Users will think that if one thing works then everything else will.
 
-Rule W93 - User will ask you questions about things that you don't know exist.
+Rule W83 - Users will ask you questions about things that you don't know exist.
+
+Rule W84 - Users will mash buttons until errors go away.
