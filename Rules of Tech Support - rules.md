@@ -265,7 +265,7 @@
 
 #### Rule 66 - You will find yourself putting out fire after fire without any chance to document anything.
 
-#### Rule 66A** - Then get blamed for not documenting everything.
+**Rule 66A** - Then get blamed for not documenting everything.
 
 #### Rule 67 - Try using metaphors and analogies in addition to or instead of technical terms.
 
