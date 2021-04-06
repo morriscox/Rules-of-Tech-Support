@@ -16,6 +16,8 @@
 
 **Rule 1F**: If they are not lying, then they are wrong. - /user/JustDandy07
 
+**Rule 2**: Explain everything as simply as possible. - /user/vinylparx
+
 **Rule 2A**: There is no language simple enough to make a user understand anything. - /user/StrategiaSE
 
 **Rule 2B**: Emojis are NEVER an answer. - /user/Capt_Blackmoore
@@ -37,8 +39,6 @@
 #### Rule 7: It doesn't matter how much time the user claims something will take. See *Rule 1*. - /user/morriscox
 
 **Rule 9B**: All jargon is the same to users. - /user/Wrestles4Food
-
-**Rule 9D**: Explain everything as simply as possible. - /user/vinylparx
 
 #### Rule 10: About half of tech support is solving issues that are only partially related to what we are supposed to fix. - /user/Mystrsyko
 

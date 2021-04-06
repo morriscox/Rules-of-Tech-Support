@@ -68,8 +68,6 @@ Rule 9B - All jargon is the same to users.
 
 Rule 9C - All jargon will be used incorrectly.
 
-Rule 9D: Explain everything as simply as possible.
-
 Rule 10 - About half of tech support is solving issues that are only partially related to what is supposed to be fixed.
 
 Rule 11 - No system is idiot-proof enough to best all users.
