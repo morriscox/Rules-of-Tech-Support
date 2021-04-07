@@ -57,6 +57,8 @@
 
 **Rule 8E** - "Isn't it YOUR JOB to know that?"
 
+**Rule 8F** - Users will not read you the entire error code or message. 
+
 #### Rule 9 - Expect any and all jargon and technical terms (such as wireless) to be misunderstood.
 
 **Rule 9A** - Expect everything to be misinterpreted.

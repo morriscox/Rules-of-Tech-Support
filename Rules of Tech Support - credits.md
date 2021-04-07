@@ -40,6 +40,8 @@
 
 **Rule 8C**: They will give the wrong error message. /u/morriscox
 
+**Rule 8F**: Users will not give you the entire error code or message. /u/surlydev
+
 **Rule 9B**: All jargon is the same to users. - /u/Wrestles4Food
 
 #### Rule 10: About half of tech support is solving issues that are only partially related to what we are supposed to fix. - /u/Mystrsyko
@@ -390,9 +392,13 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule W82: Users will think that if one thing works then everything else will. - /u/ContentBug2
 
-#### Rule W83 - Users will ask you questions about things that you didn't even know existed. /u/JAJohnson324
+#### Rule W83: Users will ask you questions about things that you didn't even know existed. /u/JAJohnson324
 
 #### Rule W84: Users will mash buttons until errors go away. - /u/ozzie286
+
+#### Rule W85: Users will not give you the entire error code or message. /surlydev/
+
+#### Rule W85A: And/Or ramble on about other things. /u/MadIIILeet
 
 
 *****

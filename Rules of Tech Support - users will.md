@@ -271,3 +271,8 @@
 #### Rule W83 - Users will ask you questions about things that you didn't even know existed.
 
 #### Rule W84 - Users will mash buttons until errors go away.
+
+#### Rule W85 - Users will not give you the entire error code or message.
+
+#### Rule W85A: And/Or ramble on about other things. /u/MadIIILeet
+

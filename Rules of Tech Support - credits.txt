@@ -44,6 +44,8 @@ Rule 7: It doesn't matter how much time the user claims something will take. See
 
 Rule 8C: They will give the wrong error message. - /u/morriscox
 
+Rule 8F: Users will not give you the entire error code or message. /u/surlydev
+
 Rule 9B: All jargon is the same to users. - /u/Wrestles4Food
 
 Rule 10: About half of tech support is solving issues that are only partially related to what we are supposed to fix. - /u/Mystrsyko
@@ -404,6 +406,11 @@ Rule W82: Users will think that if one thing works then everything else will. - 
 Rule W83: Users will ask you questions about things that you didn't even know existed. /u/JAJohnson324
 
 Rule W84: Users will mash buttons until errors go away. - /u/ozzie286
+
+Rule W85: Users will not give you the entire error code or message. /u/surlydev/
+
+Rule W85A - And/Or ramble on about other things. /u/MadIIILeet
+
 
 *****
 
