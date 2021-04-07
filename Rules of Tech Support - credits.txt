@@ -221,9 +221,12 @@ Rule 81: Most of your job is figuring out what users are talking about. - /u/Mot
 
 Rule 82: Temporary solutions aren't. - /u/
 
-Rule 83 - Every company has a Production environment and a Testing environment. If you're lucky, they are separate environments. - /u/GolfballDM
+Rule 83: Every company has a Production environment and a Testing environment. If you're lucky, they are separate environments. - /u/GolfballDM
 
-Rule 85 - Everyone is a user. Even you. - /u/NJM15642002
+Rule 84: Users already have a certificate of proficiency in computering.
+
+Rule 85: Always let someone know that you are there to fix a problem. /u/Dark_knight_dad
+
 
 
 Rule 404: You will never find it. See https://www.xkcd.com/404 - /u/1089maths

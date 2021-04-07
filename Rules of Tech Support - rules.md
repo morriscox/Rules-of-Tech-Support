@@ -309,6 +309,8 @@
 
 #### Rule 84 - Users already have a certificate of proficiency in computering.
 
+#### Rule 85 - Always let someone know that you are there to fix a problem.
+
 
 
 #### Rule 81N6 - The GoogleBing awaits.

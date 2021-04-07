@@ -221,6 +221,7 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule 83: Every company has a Production environment and a Testing environment. If you're lucky, they are separate environments. - /u/GolfballDM
 
+#### Rule 85: Always let someone know that you are there to fix a problem. /u/Dark_knight_dad
 
 
 #### Rule 404: You will never find it. See https://www.xkcd.com/404 - /u/1089maths
