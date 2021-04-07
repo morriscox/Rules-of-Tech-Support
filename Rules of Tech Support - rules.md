@@ -89,7 +89,7 @@
 
 #### Rule 18 - Never trust a user.
 
-**Rule 18A** - Never trust a non-user.
+**Rule 18A** - Everyone is a user. Even you.
 
 #### Rule 19 - The most intelligent person you know will be defeated by a mere computer.
 
@@ -307,10 +307,8 @@
 
 #### Rule 83 - Rule 83 - Every company has a Production environment and a Testing environment. If you're lucky, they are separate environments.
 
-
 #### Rule 84 - Users already have a certificate of proficiency in computering.
 
-Rule 85 - Everyone is a user. Even you.
 
 
 #### Rule 81N6 - The GoogleBing awaits.

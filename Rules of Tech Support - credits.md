@@ -64,7 +64,7 @@
 
 #### Rule 18: Never trust a user. - /u/jimboolaya
 
-**Rule 18A**: Never trust a non-user. - /u/jimboolaya
+**Rule 18A**: Everyone is a user. Even you. - /u/NJM15642002
 
 #### Rule 19: The most intelligent person you know will be defeated by a mere computer. - /u/morriscox
 
@@ -221,7 +221,6 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule 83: Every company has a Production environment and a Testing environment. If you're lucky, they are separate environments. - /u/GolfballDM
 
-#### Rule 85: Everyone is a user. Even you. - /u/NJM15642002
 
 
 #### Rule 404: You will never find it. See https://www.xkcd.com/404 - /u/1089maths
