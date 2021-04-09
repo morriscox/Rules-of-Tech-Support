@@ -60,3 +60,4 @@
 
 #### Rule M22 - Being a tech in management doesn't make you exempt from the Rules, even *Rule M1* (when it comes to dealing with upper management).
 
+#### Rule M23 - Management will tell you to do someone else's job but only give credit to them.
