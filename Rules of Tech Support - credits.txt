@@ -487,6 +487,8 @@ Rule T11C: If none of these apply, the solution will be something random that wi
 
 Rule T12: Updates will be both solutions and banes, usually at the same time. - /u/kanuut
 
+Rule T13A: Techs will treat you like you are a user. - /u/morriscox
+
 Rule T15: No technical person reads all of the rules. They will act like they know them until the place catches fire, then complain about incomplete documentation. - /u/galkardm
 
 Rule T15A: Especially if it was the documentation that went up in flames first. - /u/Manzabar

@@ -28,7 +28,7 @@
 
 #### Rule M10 - If a project makes sense, something is wrong.
 
-#### Rule M11 - If it's free (e.g., open source) or very cheap, management will think that it cannot be as good as the commercial stuff.
+#### Rule M11 - If it's free or very cheap, management will think that it cannot be as good as the commercial stuff.
 
 #### Rule M12 - Not all management is bad. Seriously.
 

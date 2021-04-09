@@ -1,4 +1,4 @@
-# Dealing with other techs
+# Dealing (primarily) with other techs
 
 #### Rule T1 - CYA
 
@@ -55,6 +55,8 @@
 #### Rule T12 - Every tech has their own set of Rules, even if they don't know it.
 
 #### Rule T13 - Every tech is also a user.
+
+**Rule T13A** - Techs will treat you like you are a user.
 
 #### Rule T14 - Make sure your coworkers don't make changes before going on vacation.
 
