@@ -20,6 +20,8 @@ Rule 1E: Users lie even when they aren't users. - /u/HaggisLad
 
 Rule 1F: If they are not lying, then they are wrong. - /u/JustDandy07
 
+Rule 1G: Accept that you will eventually have to lie to get the user to do what you need them to do. - /u/Capt_Blackmoore
+
 Rule 2: Explain everything as simply as possible. - /u/vinylparx
 
 Rule 2A: There is no language simple enough to make a user understand anything. - /u/StrategiaSE
@@ -29,6 +31,8 @@ Rule 2B: Emojis are NEVER an answer. - /u/Capt_Blackmoore
 Rule 3: User caused problems are caused by tech support. - /u/3ternalFlame3
 
 Rule 3A: As it's your fault, they don't want to be billed. - /u/TheRealSynlog
+
+Rule 3B: All issues are user issues. If there are no users, no issues get reported, no tickets get created. Ergo, it must be users who are responsible. - /u/Agent-c1983
 
 Rule 4: If it doesn't work, it is your fault. - /u/Minkehr
 
@@ -54,9 +58,13 @@ Rule 11: No system is idiot-proof enough to best all users. - /u/isthistechsuppo
 
 Rule 11A: If you haven't found a user able to best your system, it's because they haven't found you yet. - /u/isthistechsupport
 
+Rule 11B: Nature will take as a challenge any attempt to create an idiot-proof system. - /u/GolfballDM
+
 Rule 12: There is nothing so stupid that no one will do. - /u/morriscox
 
 Rule 12A: Stupid questions do exist. - /u/morriscox
+
+Rule 12B: There is no such thing as a stupid question, just stupid people. Asking a stupid question identifies a stupid user and therefore the question itself is not stupid. - /u/androshalforc
 
 Rule 13: Never believe a user who claims that there is nothing that needs to be saved. - /u/morriscox
 
@@ -209,11 +217,17 @@ Rule 74: Try to phrase things in a way that helps users save face. - /u/Merkuri2
 
 Rule 75: Maintenance, and sometimes coworkers, will unplug things and plug them back in wrong or not at all. - /u/insanitychasesme
 
+Rule 75A - If anything goes wrong they won't tell anyone. You will get to handle the "website down!" or "the internet stopped working!" tickets. - /u/kanakamaoli
+
 Rule 76: Only have the miniminal required equipment needed for users. - /u/omglolbah
 
 Rule 77: Your company will be in a very old very shoddy building. - /u/lesethx, /u/biobasher
 
 Rule 78: If someone is acting odd, it might be a social engineering attack. Verify everything. - /u/Thundercatsffs
+
+Rule 78A: VIPs within the company that actually do have the power to have you fired at whim will be the most angered by attempts to verify and will be the hardest to verify. - /u/Swipecat
+
+Rule 78B: Social engineering attackers know Rule 78A. - /u/Swipecat
 
 Rule 79: Users think they can connect to anywhere from anywhere. - /u/HelpMyBunny1080p
 
@@ -227,8 +241,11 @@ Rule 83: Every company has a Production environment and a Testing environment. I
 
 Rule 84: Users already have a certificate of proficiency in computering.
 
-Rule 85: Always let someone know that you are there to fix a problem. /u/Dark_knight_dad
+Rule 85: Always let someone know that you are there to fix a problem. - /u/Dark_knight_dad
 
+Rule 86: You might encounter a user who is nice, doesn't need everything explained, takes you seriously, reads you complete error messages, and does what you tell them to do with no drama. *neigh* Seriously, they do exist. - /u/secretaccount556
+
+Rule 87: Users who always demand the latest hardware never work in a position that requires the latest hardware. - /u/Frazzledragon
 
 
 Rule 404: You will never find it. See https://www.xkcd.com/404 - /u/1089maths
@@ -252,6 +269,8 @@ Rule W1A: If they do try to follow instructions, they will blame you if they scr
 Rule W2: No matter how much skill and knowledge and experience you have, users will claim that they know more than you. - /u/morriscox
 
 Rule W3: Users will always try to talk with your manager. - /u/onehand007
+
+Rule W5A.1: More often they are that one single thing. - /u/QuestorTapes
 
 Rule W6A: If the solution happens to work, the user thinks that they are now qualified for future issues. - /u/morriscox
 
@@ -321,6 +340,8 @@ Rule W33: Users will claim to have credentials that they don't. - /u/Junkbunny
 
 Rule W34: Users will use jargon in an attempt to make it seem that they know what they are talking about. - /u/Junkbunny - /u/Beta_K
 
+Rule W34A: Users will make up their own jargon and expect you to understand it as though it was standard jargon everyone knows. - /u/oloryn
+
 Rule W36: Users will call you from anywhere, even in a speeding car about to go into a canyon. - /u/morriscox
 
 Rule W36A: Users will call from anywhere except in front of the equipment with the issue. - /u/Geminii27
@@ -337,13 +358,15 @@ Rule W48: Users will want you to do their job for them. - /u/Geminii27
 
 Rule W48A: And insist that it is, in fact, YOUR job, not theirs. /u/Geminii27
 
-Rule W55: Users will not know the phonetic alphabet, and will suggest the worst possible words instead of the best ones. They will also refuse to use the ones you've previously used in the current conversation. - /u/Honest-Kruppe
+Rule W55: Users will not know the phonetic alphabet, and will suggest the worst possible words. They will also refuse to use the ones you've previously used in the current conversation. - /u/Honest-Kruppe
 
 Rule W56: Users will believe every hoax. - /u/morriscox
 
 Rule W57: Users will turn things off and NOT back on again. - /u/jasapple
 
 Rule W58: Users will be certain that IT has infinite faster/shinier/better gear that they are keeping for themselves. - /u/Manzabar
+
+Rule W58A: The more they want that gear the less they need it. - /u/Frazzledragon
 
 Rule W62: Users will never read the manual. - /u/morriscox
 
@@ -409,7 +432,17 @@ Rule W84: Users will mash buttons until errors go away. - /u/ozzie286
 
 Rule W85: Users will not give you the entire error code or message. /u/surlydev/
 
-Rule W85A - And/Or ramble on about other things. /u/MadIIILeet
+Rule W85A: And/Or ramble on about other things. /u/MadIIILeet
+
+Rule W86: Users will refuse to troubleshoot, because it takes too much time. - /u/Frazzledragon
+
+Rule W86A: Users will then complain about being unable to work for an even longer time. - /u/Frazzledragon
+
+Rule W87: Users will simply click "Yes" or "OK" to anything that pops up on their screen without bothering to read it or understand what they are clicking. - /u/Marc_NJ
+
+Rule W87A: Or will close anything that pops up on their screen without bothering to read it or understand it. - /u/Marc_NJ
+
+Rule W87B: Users will do this even when you are helping them in-person or remotely and needed to have read or seen what they just clicked. - /u/Marc_NJ
 
 
 *****

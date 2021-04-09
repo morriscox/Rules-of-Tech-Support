@@ -16,6 +16,8 @@
 
 **Rule W5A** - Often they think you are that one single thing.
 
+**Rule W5A.1** - More often they are that one single thing.
+
 **Rule W5B** - Telling them otherwise will only anger them.
 
 **Rule W5C** - Unless asked, they have no reason for doing something. If asked, it is computering or wizardry.
@@ -144,6 +146,8 @@
 
 #### Rule W34 - Users will use jargon in an attempt to make it seem that they know what they are talking about.
 
+**Rule W34A** - Users will make up their own jargon and expect you to understand it as though it was standard jargon everyone knows.
+
 #### Rule W35 - Users will insist on not using products that are better than what they are currently using.
 
 #### Rule W36 - Users will call you from anywhere, even in a speeding car about to go into a canyon.
@@ -194,13 +198,15 @@
 
 #### Rule W54 - Users will assume that websites have www as a subdomain unless they are supposed to actually use www.
 
-#### Rule W55 - Users will not know the phonetic alphabet, and will suggest the worst possible words instead of the best ones. They will also refuse to use the ones you've previously used in the current conversation.
+#### Rule W55 - Users will not know the phonetic alphabet, and will suggest the worst possible words. They will also refuse to use the ones you've previously used in the current conversation.
 
 #### Rule W56 - Users will believe every hoax.
 
 #### Rule W57 - Users will turn things off and NOT back on again.
 
 #### Rule W58 - Users will be certain that IT has infinite faster/shinier/better gear that they are keeping for themselves.
+
+**Rule W58A** - The more they want that gear the less they need it.
 
 #### Rule W59 - Users will believe that it's safe to connect anything to the Internet.
 
@@ -274,5 +280,14 @@
 
 #### Rule W85 - Users will not give you the entire error code or message.
 
-#### Rule W85A: And/Or ramble on about other things. /u/MadIIILeet
+#### Rule W85A - And/Or ramble on about other things. /u/MadIIILeet
 
+#### W86: Users will refuse to troubleshoot, because it takes too much time.
+
+**Rule W86A** - Users will then complain about being unable to work for an even longer time.
+
+#### Rule W87 - Users will simply click "Yes" or "OK" to anything that pops up on their screen without bothering to read it or understand what they are clicking.
+
+**Rule W87A** - Or will close anything that pops up on their screen without bothering to read it or understand it.
+
+**Rule W87B** - Users will do this even when you are helping them in-person or remotely and needed to have read or seen what they just clicked.
