@@ -1,4 +1,4 @@
-#### Contributions and feedback are definitely welcome.
+#### Contributions and feedback are definitely welcome. Pull requests are okay.
 
 ***Created from and contributed to by the users of /r/talesfromtechsupport***
 ***
