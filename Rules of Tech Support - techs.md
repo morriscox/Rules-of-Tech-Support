@@ -90,6 +90,9 @@
 
 **Rule T24A** - Neither will you.
 
+#### Rule T25 - Your fellow techs will expect you to be their tech support.
+
+
 
 **Rule T568A** - white green, green, white orange, blue, white blue, orange, white brown, brown
 
