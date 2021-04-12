@@ -319,6 +319,8 @@
 
 #### Rule 81 - Most of your job is figuring out what users are talking about.
 
+#### Rule 81N6 - The GoogleBing awaits.
+
 #### Rule 82 - Temporary solutions aren't.
 
 #### Rule 83 - Rule 83 - Every company has a Production environment and a Testing environment. If you're lucky, they are separate environments.
@@ -331,9 +333,13 @@
 
 #### Rule 87 - Users who always demand the latest hardware never work in a position that requires the latest hardware.
 
+#### Rule 88 - Sometimes you need a user to fix your problem.
+
+#### Rule 89 - You will be expected to be your own tech support.
+
+#### Rule 90 - You will have to support software older than you are.
 
 
-#### Rule 81N6 - The GoogleBing awaits.
 
 #### Rule 404 - You will never find it. See https://www.xkcd.com/404
 
