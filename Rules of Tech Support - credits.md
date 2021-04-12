@@ -233,6 +233,8 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule 81: Most of your job is figuring out what users are talking about. - /u/MotherMfker
 
+#### Rule 81N6: The GoogleBing awaits. - /u/morriscox
+
 #### Rule 82: Temporary solutions aren't.
 
 #### Rule 83: Every company has a Production environment and a Testing environment. If you're lucky, they are separate environments. - /u/GolfballDM
@@ -243,13 +245,17 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule 87: Users who always demand the latest hardware never work in a position that requires the latest hardware. - /u/Frazzledragon
 
+#### Rule 88: Sometimes you need a user to fix your problem. - /u/AmenusUK
+
+#### Rule 89: You will be expected to be your own tech support. - /u/Enjanced, /u/Capt_Blackmoore
+
+#### Rule 90: You will have to support software older than you are. - /u/Enjanced, /u/LetterBoxSnatch
+
 
 
 #### Rule 404: You will never find it. See https://www.xkcd.com/404 - /u/1089maths
 
 **Rule 404A**: If a page is not found, then the entire site|Internet is down.
-
-#### Rule 81N6: The GoogleBing awaits. - /u/morriscox
 
 #### Rule 600613: Used to go to websites instead of going directly. - /u/vballboss
 *****
@@ -500,6 +506,8 @@ them until the place catches fire, then complain about incomplete documentation.
 #### Rule T24: Other techs will never read the manual. - /u/morriscox
 
 **Rule T24A**: Neither will you. - /u/morriscox
+
+#### Rule T25 - Your fellow techs will expect you to be their tech support. /u/AWetYeti
 
 
 **Rule T568A**: white green, green, white orange, blue, white blue, orange, white brown, brown - /u/ABCDwp
