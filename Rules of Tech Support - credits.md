@@ -566,7 +566,7 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule M23: Management will tell you to do someone else's job but only give credit to them. - /u/morriscox
 
-#### Rule M24: Management (and coworkers) will treat the help better than they treat you. - /u/The-Wizard-Of-Goz
+#### Rule M24: Management (and coworkers) will treat the help better than they treat you. - /u/Shurikane
 
 
 *****
