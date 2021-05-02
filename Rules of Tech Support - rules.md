@@ -147,6 +147,8 @@
 
 **Rule 30E** - Users will mash buttons and go through random menus and do random actions until errors go away or the printer is messed up. See also *Rule W84*.
 
+**Rule 30F** - Did you check DNS? Check again.
+
 #### Rule 31 - All user provided information must be verified.
 
 #### Rule 32 - If you are a female tech, users will ask to speak to a man.

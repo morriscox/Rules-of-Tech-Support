@@ -108,6 +108,8 @@
 
 **Rule 30E**: Users will mash buttons and go through random menus and do random actions until errors go away or the printer is messed up. See also *Rule W93*. - /u/ozzie286
 
+**Rule 30F**: Did you check DNS? Check again. - /u/livewire195
+
 #### Rule 32: If you are a female tech, users will ask to speak to a man. - /u/DRLAR
 
 **Rule 32D**:  You'll get tons of calls from men (especially if you are attractive) who will even disconnect stuff to get you to go to them.- /u/DRLAR
