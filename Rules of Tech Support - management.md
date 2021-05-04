@@ -64,3 +64,4 @@
 
 #### Rule M24 - Management (and coworkers) will treat the help better than they treat you.
 
+#### Rule M25 - The OSI model has layer 8 (user) and layer 9 (management).

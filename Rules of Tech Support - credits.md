@@ -253,6 +253,7 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule 90: You will have to support software older than you are. - /u/Enjanced, /u/LetterBoxSnatch
 
+#### Rule 91: The OSI model has layer 8 (user) and layer 9 (management). - /u/Dirty_Socks
 
 
 #### Rule 404: You will never find it. See https://www.xkcd.com/404 - /u/1089maths
@@ -568,6 +569,7 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule M24: Management (and coworkers) will treat the help better than they treat you. - /u/Shurikane
 
+#### Rule M25: The OSI model has layer 8 (user) and layer 9 (management). - /u/Dirty_Socks
 
 *****
 # Mantras

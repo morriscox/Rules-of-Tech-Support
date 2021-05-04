@@ -341,6 +341,8 @@
 
 #### Rule 90 - You will have to support software older than you are.
 
+#### Rule 91 - The OSI model has layer 8 (user) and layer 9 (management).
+
 
 
 #### Rule 404 - You will never find it. See https://www.xkcd.com/404
