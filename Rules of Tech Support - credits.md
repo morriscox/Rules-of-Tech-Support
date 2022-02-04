@@ -255,6 +255,8 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule 91: The OSI model has layer 8 (user) and layer 9 (management). - /u/Dirty_Socks
 
+#### Rule 92 - It's always a bad sign if someone is happy to see you. /u/lucky_ducker
+
 
 #### Rule 404: You will never find it. See https://www.xkcd.com/404 - /u/1089maths
 
@@ -443,6 +445,10 @@ them until the place catches fire, then complain about incomplete documentation.
 **Rule W87A**: Or will close anything that pops up on their screen without bothering to read it or understand it. - /u/Marc_NJ
 
 **Rule W87B**: Users will do this even when you are helping them in-person or remotely and needed to have read or seen what they just clicked. - /u/Marc_NJ
+
+#### Rule W88: Users will not even let you get to your desk or have lunch. /u/TheNiceDaniels
+
+**Rule W88A**: They will think you are late no matter how early you show up. /u/itsehsreve
 
 
 *****

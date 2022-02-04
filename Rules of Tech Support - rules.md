@@ -343,6 +343,7 @@
 
 #### Rule 91 - The OSI model has layer 8 (user) and layer 9 (management).
 
+#### Rule 92 - It's always a bad sign if someone is happy to see you.
 
 
 #### Rule 404 - You will never find it. See https://www.xkcd.com/404

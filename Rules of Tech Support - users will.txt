@@ -295,3 +295,7 @@ Rule W87 - Users will simply click "Yes" or "OK" to anything that pops up on the
 Rule W87A - Or will close anything that pops up on their screen without bothering to read it or understand it.
 
 Rule W87B - Users will do this even when you are helping them in-person or remotely and needed to have read or seen what they just clicked.
+
+Rule W88 - Users will not even let you get to your desk or have lunch.
+
+Rule W88A - They will think you are late no matter how early you show up. 
