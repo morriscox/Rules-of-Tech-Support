@@ -450,6 +450,9 @@ them until the place catches fire, then complain about incomplete documentation.
 
 **Rule W88A**: They will think you are late no matter how early you show up. /u/itsehsreve
 
+#### Rule W89 - Users will turn off their computer while you are working on it. - /uIAmAUser4Real
+
+**Rule W89A** - Even if you tell them not to. - /u/morriscox
 
 *****
 # Techs

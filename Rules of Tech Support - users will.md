@@ -295,3 +295,7 @@
 #### Rule W88 - Users will not even let you get to your desk or have lunch.
 
 **Rule W88A** - They will think you are late no matter how early you show up. 
+
+#### Rule W89 - Users will turn off their computer while you are working on it.
+
+**Rule W89A** - Even if you tell them not to.
