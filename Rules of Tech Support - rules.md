@@ -345,6 +345,9 @@
 
 #### Rule 92 - It's always a bad sign if someone is happy to see you.
 
+#### Rule 93 - "Only one thing" never is.
+
+
 
 #### Rule 404 - You will never find it. See https://www.xkcd.com/404
 

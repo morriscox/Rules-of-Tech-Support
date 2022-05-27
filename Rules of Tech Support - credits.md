@@ -255,10 +255,13 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule 91: The OSI model has layer 8 (user) and layer 9 (management). - /u/Dirty_Socks
 
-#### Rule 92 - It's always a bad sign if someone is happy to see you. /u/lucky_ducker
+#### Rule 92 - It's always a bad sign if someone is happy to see you. - /u/lucky_ducker
+
+#### Rule 93 - "Only one thing" never is. - /u/FreakFromSweden, /u/johnmichael0703
 
 
-#### Rule 404: You will never find it. See https://www.xkcd.com/404 - /u/1089maths
+
+#### Rule 404: You will never find it. See https://www.explainxkcd.com/404 - /u/1089maths
 
 **Rule 404A**: If a page is not found, then the entire site|Internet is down.
 
