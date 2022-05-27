@@ -349,7 +349,7 @@
 
 
 
-#### Rule 404 - You will never find it. See https://www.xkcd.com/404
+#### Rule 404 - You will never find it. See https://www.explainxkcd.com/404
 
 **Rule 404A** - If a page is not found, then the entire site|Internet is down.
 
