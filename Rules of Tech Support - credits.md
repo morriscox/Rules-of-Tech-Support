@@ -52,7 +52,6 @@
 
 **Rule 8G**: If the user reads you the error message in its entirety, it will be irrelevant to the issue. - /u/ejvogie
 
-
 **Rule 9B**: All jargon is the same to users. - /u/Wrestles4Food
 
 #### Rule 10: About half of tech support is solving issues that are only partially related to what we are supposed to fix. - /u/Mystrsyko
@@ -264,15 +263,15 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule 91: The OSI model has layer 8 (user) and layer 9 (management). - /u/Dirty_Socks
 
-#### Rule 92 - It's always a bad sign if someone is happy to see you. - /u/lucky_ducker
+#### Rule 92: It's always a bad sign if someone is happy to see you. - /u/lucky_ducker
 
-#### Rule 93 - "Only one thing" never is. - /u/FreakFromSweden, /u/johnmichael0703
+#### Rule 93: "Only one thing" never is. - /u/FreakFromSweden, /u/johnmichael0703
 
-#### Rule 94 - Hypothetical questions aren't. - /u/Beirdo-Baggins
+#### Rule 94: Hypothetical questions aren't. - /u/Beirdo-Baggins
 
-#### Rule 95 - Every mail from the helpdesk or system administration will be too much to handle if it is longer than two lines. - /u/sheeproomer
+#### Rule 95: Every mail from the helpdesk or system administration will be too much to handle if it is longer than two lines. - /u/sheeproomer
 
-#### Rule 96 - Business will demand more experience for their job postings than exists. - /u/morriscox
+#### Rule 96: Business will demand more experience for their job postings than exists. - /u/morriscox
 
 
 #### Rule 404: You will never find it. See https://www.explainxkcd.com/404 - /u/1089maths
