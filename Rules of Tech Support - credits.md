@@ -47,7 +47,8 @@
 **Rule 8C**: They will give the wrong error message. /u/morriscox
 
 **Rule 8F**: Users will not give you the entire error code or message. /u/surlydev
-***Rule 8F.1***: "or will read everything else." /u/EDM_Graybeard
+
+**Rule 8F.1**: "or will read everything else." /u/EDM_Graybeard
 
 **Rule 8G**: If the user reads you the error message in its entirety, it will be irrelevant to the issue. - /u/ejvogie
 
