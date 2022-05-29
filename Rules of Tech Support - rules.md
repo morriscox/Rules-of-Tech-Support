@@ -41,6 +41,8 @@
 
 **Rule 5C** - Or when they do, they won't have shared it with you or they entered an all-day event as taking an hour.
 
+**Rule 5D** - The problem will be solved by doing something you already asked them to but they said it didn't work. - /u/Responsible-Slide-95
+
 #### Rule 6 - All users consider their situation to be more important than others, even if they know you are helping someone else.
 
 **Rule 6A** - All users want VIP treatment.
@@ -61,7 +63,10 @@
 
 **Rule 8E** - "Isn't it YOUR JOB to know that?"
 
-**Rule 8F** - Users will not read you the entire error code or message. 
+**Rule 8F** - Users will not read you the entire error code or message or will read everything else.
+
+**Rule 8G** - If the user reads you the error message in its entirety, it will be irrelevant to the issue.
+
 
 #### Rule 9 - Expect any and all jargon and technical terms (such as wireless) to be misunderstood.
 
@@ -337,6 +342,8 @@
 
 #### Rule 88 - Sometimes you need a user to fix your problem.
 
+**Rule 88A** - Only a user will find the real problem.
+
 #### Rule 89 - You will be expected to be your own tech support.
 
 #### Rule 90 - You will have to support software older than you are.
@@ -347,6 +354,11 @@
 
 #### Rule 93 - "Only one thing" never is.
 
+#### Rule 94 - Hypothetical questions aren't.
+
+##### Rule 95 - Every mail from the helpdesk or system administration will be too much to handle if it is longer than two lines.
+
+#### Rule 96 - Business will demand more experience for their job postings than exists.
 
 
 #### Rule 404 - You will never find it. See https://www.explainxkcd.com/404
@@ -354,4 +366,6 @@
 **Rule 404A** - If a page is not found, then the entire site|Internet is down.
 
 #### Rule 600613 - Used to go to websites instead of going directly.
+
+#### Rule Ferengi - Users want their problem fixed quickly.  Bribes will ensure they will be. - /u/trro16p
 

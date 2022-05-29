@@ -38,6 +38,8 @@
 
 **Rule 5C**: Or when they do, they won't have shared it with you or they entered an all-day event as taking an hour. - /u/einstein95
 
+**Rule 5D**: The problem will be solved by doing something you already asked them to but they said it didn't work. - /u/Responsible-Slide-95
+
 #### Rule 6: All users consider their situation to be more important than others. - /u/morriscox
 
 #### Rule 7: It doesn't matter how much time the user claims something will take. See *Rule 1*. - /u/morriscox
@@ -45,6 +47,10 @@
 **Rule 8C**: They will give the wrong error message. /u/morriscox
 
 **Rule 8F**: Users will not give you the entire error code or message. /u/surlydev
+***Rule 8F.1***: "or will read everything else." /u/EDM_Graybeard
+
+**Rule 8G**: If the user reads you the error message in its entirety, it will be irrelevant to the issue. - /u/ejvogie
+
 
 **Rule 9B**: All jargon is the same to users. - /u/Wrestles4Food
 
@@ -249,6 +255,8 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule 88: Sometimes you need a user to fix your problem. - /u/AmenusUK
 
+**Rule 88A**: Only a user will find the real problem. - /u/Capt_Blackmoore
+
 #### Rule 89: You will be expected to be your own tech support. - /u/Enjanced, /u/Capt_Blackmoore
 
 #### Rule 90: You will have to support software older than you are. - /u/Enjanced, /u/LetterBoxSnatch
@@ -259,6 +267,11 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule 93 - "Only one thing" never is. - /u/FreakFromSweden, /u/johnmichael0703
 
+#### Rule 94 - Hypothetical questions aren't. - /u/Beirdo-Baggins
+
+#### Rule 95 - Every mail from the helpdesk or system administration will be too much to handle if it is longer than two lines. - /u/sheeproomer
+
+#### Rule 96 - Business will demand more experience for their job postings than exists. - /u/morriscox
 
 
 #### Rule 404: You will never find it. See https://www.explainxkcd.com/404 - /u/1089maths
@@ -266,6 +279,10 @@ them until the place catches fire, then complain about incomplete documentation.
 **Rule 404A**: If a page is not found, then the entire site|Internet is down.
 
 #### Rule 600613: Used to go to websites instead of going directly. - /u/vballboss
+
+#### Rule Ferengi: Users want their problem fixed quickly.  Bribes will ensure they will be. - /u/trro16p
+
+
 *****
  # Users Will
 
@@ -377,6 +394,8 @@ them until the place catches fire, then complain about incomplete documentation.
 
 **Rule W62A**: Only those who know what RTFM means will do it. - /u/gromit1991
 
+**Rule W62B**: It doesn't matter how accessible you make the documentation, they won't consult it. - /u/lordriffington
+
 #### Rule W64: Users will expect everything to work without power. - /u/Capt_Blackmoore
 
 **Rule W64A**: Users will not realize that they need power. - /u/jew_fro_23
@@ -453,9 +472,16 @@ them until the place catches fire, then complain about incomplete documentation.
 
 **Rule W88A**: They will think you are late no matter how early you show up. /u/itsehsreve
 
-#### Rule W89 - Users will turn off their computer while you are working on it. - /uIAmAUser4Real
+#### Rule W89: Users will turn off their computer while you are working on it. - /uIAmAUser4Real
 
-**Rule W89A** - Even if you tell them not to. - /u/morriscox
+**Rule W89A**: Even if you tell them not to. - /u/morriscox
+
+#### Rule W90: Uses will do everything to avoid submitting a support ticket. - /u/sheeproomer
+
+**Rule W90A**: They will spend more time writing a long detailed email to your boss than filling out a support ticket. - /u/Few-Tart_7348
+
+**Rule W90B**: You will be summoned by your boss, who didn't read more than two lines, to explain that email.  - /u/sheeproomer
+
 
 *****
 # Techs

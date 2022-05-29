@@ -299,3 +299,9 @@
 #### Rule W89 - Users will turn off their computer while you are working on it.
 
 **Rule W89A** - Even if you tell them not to.
+
+#### Rule W90 - Uses will do everything to avoid submitting a support ticket.
+
+**Rule W90A** - They will spend more time writing a long detailed email to your boss than filling out a support ticket.
+
+**Rule W90B** - You will be summoned by your boss, who didn't read more than two lines, to explain that email.
