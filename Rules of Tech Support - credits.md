@@ -273,6 +273,10 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule 96: Business will demand more experience for their job postings than exists. - /u/morriscox
 
+#### Rule 97: Always keep copies of drivers you download. - /u/Liamzee
+
+#### Rule 98: Don't ask users if something is on the screen. Have them read the screen. - /u/rdrunner_74
+
 
 #### Rule 404: You will never find it. See https://www.explainxkcd.com/404 - /u/1089maths
 
@@ -482,6 +486,19 @@ them until the place catches fire, then complain about incomplete documentation.
 
 **Rule W90B**: You will be summoned by your boss, who didn't read more than two lines, to explain that email.  - /u/sheeproomer
 
+**Rule W90C**: This will be the first time that you will have been told about any problems. - /u/Rathmun
+
+#### Rule W91: Users will casually tell IT about a problem when the tech is working on something else. - /u/BastPriestness
+
+**Rule W91A**: This has been happening for a long time. - /u/BastPriestness
+
+**Rule W91B**: Multiple people have been having this problem yet no one has bothered to tell anyone. See *Rule W90C*. - /u/BastPriestness
+
+#### Rule W92: Users will use you as a scapegoat. - /u/SeanBZA
+
+#### Rule W93: Users will use screenshots to submit error codes but leave out critical information. - /u/rdrunner_74
+
+#### Rule W94: Users will unable to take screenshots in time if allowed to. - /u/Mysterious_Peak_6967
 
 *****
 # Techs
@@ -490,8 +507,6 @@ them until the place catches fire, then complain about incomplete documentation.
 
 **Rule T1A**: Always have someone else to blame it on. - /u/cokronk
 
-**Rule T1B**: This is the most important rule. - /u/morriscox
-
 #### Rule T2: Never lie to another tech. - /u/GenericUserLogon, /u/morriscox
 
 **Rule T2A**: Unless that tech is the person you're about to blame. See *Rule T1A* and *Rule T25*. - /u/Mistral_Mobius
@@ -499,6 +514,8 @@ them until the place catches fire, then complain about incomplete documentation.
 **Rule T2B**: Sometimes you will need to lie in order to deal with things like warranty repairs or getting ISPs to do the right thing. - /u/sirblastalot
 
 **Rule T3B**: Is it even plugged in? - /u/Liamzee
+
+**Rule T3C**: Is it turned on? - /u/WirelessyWired
 
 #### Rule T6: Don't try to do work over the Internet while in a moving airplane. - /u/dmehaffy
 
@@ -520,7 +537,7 @@ them until the place catches fire, then complain about incomplete documentation.
 
 **Rule T11C**: If none of these apply, the solution will be something random that will make no sense whatsoever to you or the technician. - /u/mandichaos
 
-#### Rule T12: Updates will be both solutions and banes, usually at the same time. - /u/kanuut
+#### Rule T12: Every tech has their own set of Rules, even if they don't know it. - /u/kanuut
 
 **Rule T13A**: Techs will treat you like you are a user. - /u/morriscox
 

@@ -4,8 +4,6 @@
 
 **Rule T1A** - Always have someone else to blame it on.
 
-**Rule T1B** - This is the most important rule.
-
 #### Rule T2 - Never lie to another tech.
 
 **Rule T2A** - Unless that tech is the person you're about to blame. See *Rule T1A* and *Rule T13*.
@@ -17,6 +15,8 @@
 **Rule T3A** - Does the issue even exist?
 
 **Rule T3B** - Is it even plugged in?
+
+**Rule T3C** - Is it turned on?
 
 #### Rule T4 - Don't expect your boss or coworkers or users to understand just what it is that you do.
 

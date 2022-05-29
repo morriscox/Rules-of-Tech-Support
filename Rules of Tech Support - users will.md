@@ -218,6 +218,8 @@
 
 **Rule W62A** - Only those who know what RTFM means will do it.
 
+**Rule W62B** - It doesn't matter how accessible you make the documentation, they won't consult it.
+
 #### Rule W63 - Users will misuse equipment and in very creative ways.
 
 #### Rule W64 - Users will expect everything to work without power.
@@ -305,3 +307,18 @@
 **Rule W90A** - They will spend more time writing a long detailed email to your boss than filling out a support ticket.
 
 **Rule W90B** - You will be summoned by your boss, who didn't read more than two lines, to explain that email.
+
+**Rule W90C** - This will be the first time that you will have been told about any problems.
+
+#### Rule W91 - Users will casually tell IT about a problem when the tech is working on something else.
+
+**Rule W91A** - This has been happening for a long time.
+
+**Rule W91B** - Multiple people have been having this problem yet no one has bothered to tell anyone. See *Rule W90C*.
+
+#### Rule W92 - Users will use you as a scapegoat.
+
+#### Rule W93 - Users will use screenshots to submit error codes but leave out critical information.
+
+#### Rule W94 - Users will unable to take screenshots in time if allowed to.
+

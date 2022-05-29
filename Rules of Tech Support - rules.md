@@ -356,9 +356,14 @@
 
 #### Rule 94 - Hypothetical questions aren't.
 
-##### Rule 95 - Every mail from the helpdesk or system administration will be too much to handle if it is longer than two lines.
+#### Rule 95 - Every mail from the helpdesk or system administration will be too much to handle if it is longer than two lines.
 
 #### Rule 96 - Business will demand more experience for their job postings than exists.
+
+#### Rule 97 - Always keep copies of drivers you download.
+
+#### Rule 98 - Don't ask users if something is on the screen. Have them read the screen.
+
 
 
 #### Rule 404 - You will never find it. See https://www.explainxkcd.com/404
