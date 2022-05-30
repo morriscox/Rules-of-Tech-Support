@@ -366,6 +366,9 @@
 
 #### Rule 99 - A fix will only work until you fall asleep.
 
+#### Rule 100 - A theme, especially a system theme, will make it difficult to read anything.
+
+
 
 #### Rule 404 - You will never find it. See https://www.explainxkcd.com/404
 
