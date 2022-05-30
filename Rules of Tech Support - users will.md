@@ -1,4 +1,5 @@
 #Users Will...
+
 *****
 #### Rule W1 - Users will never follow instructions.
 
@@ -30,9 +31,9 @@
 
 #### Rule W8 - Users will forget their password (and often their username), even if it's their own name and written down next to them.
 
-#### Rule W9 - If a document fails to print, users will keep trying just to make sure it prints. (Same as *Rule 30C*.)
+#### Rule W9 - If a document fails to print, users will keep trying just to make sure it prints. See *Rule 30C*.
 
-**Rule W9A** - The true importance of the documents they are trying to print will be inversely proportional to the fit they are throwing. (Same as *Rule 30C*.)
+**Rule W9A** - The true importance of the documents they are trying to print will be inversely proportional to the fit they are throwing. See *Rule 30C*.
 
 #### Rule W10 - Users will store important documents where they shouldn't. The Recycle Bin, the Trash folder, the Deleted Items folders...
 
@@ -282,8 +283,7 @@
 
 #### Rule W85 - Users will not give you the entire error code or message.
 
-#### Rule W85A - And/Or ramble on about other things. /u/MadIIILeet
-
+#### Rule W85A - And/Or ramble on about other things.
 #### W86: Users will refuse to troubleshoot, because it takes too much time.
 
 **Rule W86A** - Users will then complain about being unable to work for an even longer time.
