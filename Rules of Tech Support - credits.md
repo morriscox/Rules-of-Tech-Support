@@ -277,6 +277,7 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule 98: Don't ask users if something is on the screen. Have them read the screen. - /u/rdrunner_74
 
+#### Rule 99 - A fix will only work until you fall asleep. - /u/brotherengima
 
 #### Rule 404: You will never find it. See https://www.explainxkcd.com/404 - /u/1089maths
 

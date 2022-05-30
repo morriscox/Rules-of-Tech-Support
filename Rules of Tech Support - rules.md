@@ -364,6 +364,7 @@
 
 #### Rule 98 - Don't ask users if something is on the screen. Have them read the screen.
 
+#### Rule 99 - A fix will only work until you fall asleep.
 
 
 #### Rule 404 - You will never find it. See https://www.explainxkcd.com/404
