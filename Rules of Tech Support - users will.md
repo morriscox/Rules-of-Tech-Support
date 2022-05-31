@@ -148,7 +148,7 @@ Credits are listed there. The requirements for being listed here is that the mai
 
 **Rule W32A** - And leave the kid(s) alone with said expensive items.
 
-**Rule W32B - And not fix anything that might happen. See *Rule W18*.
+**Rule W32B** - And not fix anything that might happen. See *Rule W18*.
 
 #### Rule W33 - Users will claim to have credentials that they don't.
 
