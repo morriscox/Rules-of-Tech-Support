@@ -504,7 +504,7 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule W94: Users will unable to take screenshots in time if allowed to. - /u/Mysterious_Peak_6967
 
-#### Rule W95: Users will submit tickets on Friday at 4:50PM, and go home. - /u/DeadEyedAdmin
+#### Rule W95: Users will submit tickets on Friday at 4:50PM and go home. - /u/DeadEyedAdmin
 
 **Rule W95A**: Users will duplicate the ticket on Monday at 9:10AM. - /u/DeadEyedAdmin
 

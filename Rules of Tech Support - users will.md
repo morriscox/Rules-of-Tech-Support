@@ -329,7 +329,7 @@ Credits are listed there. The requirements for being listed here is that the mai
 
 #### Rule W94 - Users will unable to take screenshots in time if allowed to.
 
-#### Rule W95 - Users will submit tickets on Friday at 4:50PM, and go home!
+#### Rule W95 - Users will submit tickets on Friday at 4:50PM and go home.
 
 **Rule W95A** - Users will duplicate the ticket on Monday at 9:10AM.
 
