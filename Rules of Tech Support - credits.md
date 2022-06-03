@@ -658,6 +658,8 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule M25: The OSI model has layer 8 (user) and layer 9 (management). - /u/Dirty_Socks
 
+#### Rule MAN: Who your manager is likely to be. - /u/morriscox
+
 *****
 # Mantras
 
