@@ -6,7 +6,7 @@
 
 #### Rule T2 - Never lie to another tech.
 
-**Rule T2A** - Unless that tech is the person you're about to blame. See *Rule T1A* and *Rule T13*.
+**Rule T2A** - Unless that tech is the person you're about to blame. See *Rule T1A*.
 
 **Rule T2B** - Sometimes you will need to lie in order to deal with things like warranty repairs or getting ISPs to do the right thing.
 
@@ -32,7 +32,7 @@
 
 #### Rule T9 - Backup following the Rule of Three. A backup, a copy of the backup, and a copy of the copy. Test them.
 
-**Rule T9A** - Consider using other backup strategies. [*Link TL1*](https://www.unitrends.com/blog/3-2-1-backup-sucks).
+**Rule T9A** - Consider using other backup strategies. See *Link TL1*(https://www.unitrends.com/blog/3-2-1-backup-sucks).
 
 **Rule T9B** - There is no backup. If there is a backup, it is either corrupt or years out of date.
 
@@ -43,6 +43,8 @@
 **Rule T10A** - Don't trust your coworkers. They might be using *Rule T2A*.
 
 **Rule T10B** - Don't even trust yourself. One error and you might cause serious damage or become a security leak.
+
+**Rule T10C** - The new member on your team will send critical sensitive information to anyone who asks without trying to do any verification.
 
 #### Rule T11 - When you need tech support, the tech support person is likely to be clueless.
 

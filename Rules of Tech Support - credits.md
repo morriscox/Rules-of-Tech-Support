@@ -340,6 +340,8 @@ them until the place catches fire, then complain about incomplete documentation.
 
 **Rule W20B**: Users will believe that one entity (a server or the cloud) controls all things digital, as well as time and space. - /u/FlyingSpaceLlama
 
+**Rule W21A**: Users believe there is a super secret DWIM (Do What I Mean) mode that all support people have access to but rudely refuse to use to resolve the user's issue. - /u/ecp001
+
 **Rule W23A**: They will plug it into your network. - /u/Geminii27
 
 **Rule W23B**: And demand you support it. - /u/Geminii27
@@ -375,6 +377,8 @@ them until the place catches fire, then complain about incomplete documentation.
 #### Rule W36: Users will call you from anywhere, even in a speeding car about to go into a canyon. - /u/morriscox
 
 **Rule W36A**: Users will call from anywhere except in front of the equipment with the issue. - /u/Geminii27
+
+**Rule W38B**: Acknowledging the existence of a piece of equipment is equivalent to touching it and accepting responsibility for its 100% uptime, including coffee makers and Tamagotchis. - /u/ecp001
 
 #### Rule W39: Users will confuse a company with the products that they make. - /u/silent3
 
@@ -492,6 +496,14 @@ them until the place catches fire, then complain about incomplete documentation.
 
 **Rule W90C**: This will be the first time that you will have been told about any problems. - /u/Rathmun
 
+**Rule W90D**: If they do submit a ticket, it will be as vague as possible and will be missing critical information. - /u/archa1c0236
+
+**Rule W90E**: Attempts to obtain the information will be ignored, turning a five minute fix into something than can take long periods of time. - /u/archa1c0236
+
+**Rule W90F**:  After noting multiple attempts at contact and closing the ticket, following procedure, the user will reopen the ticket or make a new ticket and complain that you didn’t contact them or fix their problem. - /u/BastPriestess
+
+**Rule W90G**: User will log a ticket minutes before going on vacation, claim it is for one week long, actually be on vacation for two weeks, and then ask why this wasn't fixed while they were gone. - /u/physc65
+
 #### Rule W91: Users will casually tell IT about a problem when the tech is working on something else. - /u/BastPriestness
 
 **Rule W91A**: This has been happening for a long time. - /u/BastPriestness
@@ -512,6 +524,11 @@ them until the place catches fire, then complain about incomplete documentation.
 
 **Rule W95C**: Techs will know that only 20 minutes has gone by between these requests. - /u/DeadEyedAdmin
 
+#### Rule W96 - Users will expect you to be reachable 24 hours a day, every day of the year.- /u/DoctorOctagonapus
+
+**Rule W96A** - Users will expect you to treat their forgotten password on a Saturday night as priority one.- /u/DoctorOctagonapus
+
+**Rule W96B** - Users will always call you directly, even when you are not on call.- /u/DoctorOctagonapus
 
 *****
 # Techs
@@ -545,6 +562,8 @@ them until the place catches fire, then complain about incomplete documentation.
 #### Rule T10: Assume that there are also inside threats, even inside IT. It's not paranoia if they really are after you (or your stuff). - /u/morriscox
 
 **Rule T10B**: Don't even trust yourself. One error and you might cause serious damage or become a security leak. - /u/morriscox
+
+**Rule T10C**: The new member on your team will send critical sensitive information to anyone who asks without trying to do any verification. - /u/PM_me_your_recipes
 
 **Rule T11A**: Whenever you have a problem, you will be unable to find a solution until just before the tech you called for help arrives. - /u/Play3er2
 

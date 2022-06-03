@@ -35,6 +35,7 @@ Rule T9C - If you can't restore from it, you don't have a backup.
 Rule T10 - Assume that there are also inside threats, even inside IT. It's not paranoia if they really are after you (or your stuff).
 Rule T10A - Don't trust your coworkers. They might be using *Rule T2A*.
 Rule T10B - Don't even trust yourself. One error and you might cause serious damage or become a security leak.
+Rule T10C - The new member on your team will send critical sensitive information to anyone who asks without trying to do any verification.
 
 Rule T11 - When you need tech support, the tech support person is likely to be clueless.
 Rule T11A - Whenever you have a problem, you will be unable to find a solution until just before the tech you called for help arrives.

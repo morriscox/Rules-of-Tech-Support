@@ -275,7 +275,7 @@ Rule 92 - It's always a bad sign if someone is happy to see you.
 
 Rule 93 - "Only one thing" never is.
 
-Rule 94 - Hypothetical questions aren't. - /u/Beirdo-Baggins
+Rule 94 - Hypothetical questions aren't.
 
 Rule 95 - Every mail from the helpdesk or system administration will be too much to handle if it is longer than two lines.
 

@@ -74,6 +74,7 @@ Rule W20A - Users will believe anything that can connect to anything can complet
 Rule W20B - Users will believe one entity (a server or the cloud) controls all things digital, as well as time and space.
 
 Rule W21 - Users will believe their desire for something to happen is sufficient for it to happen.
+Rule W21A — Users believe there is a super secret DWIM (Do What I Mean) mode that all support people have access to but rudely refuse to use to resolve the user's issue.
 
 Rule W22 - If you fix something quickly, the user will not want to pay.
 
@@ -127,6 +128,7 @@ Rule W37 - Users will see no link between something they did and something break
 
 Rule W38 - Once you've touched something, whether you fixed it or not, users will blame you for all further issues.
 Rule W38A - And expect you to provide free support for all further issues.
+Rule W38B — Acknowledging the existence of a piece of equipment is equivalent to touching it and accepting responsibility for its 100% uptime, including coffee makers and Tamagotchis.
 
 Rule W39 - Users will confuse a company with the products that they make.
 Rule W39A - Users will confuse a company with products that it doesn't make.
@@ -254,6 +256,10 @@ Rule W90 - Uses will do everything to avoid submitting a support ticket.
 Rule W90A - They will spend more time writing a long detailed email to your boss than filling out a support ticket.
 Rule W90B - You will be summoned by your boss, who didn't read more than two lines, to explain that email.
 Rule W90C - This will be the first time that you will have been told about any problems.
+Rule W90D - If they do submit a ticket, it will be as vague as possible and will be missing critical information.
+Rule W90E - Attempts to obtain the information will be ignored, turning a five minute fix into something than can take long periods of time.
+Rule W90F - After noting multiple attempts at contact and closing the ticket, following procedure, the user will reopen the ticket or make a new ticket and complain that you didn’t contact them or fix their problem.
+Rule W90G - User will log a ticket minutes before going on vacation, claim it is for one week long, actually be on vacation for two weeks, and then ask why this wasn't fixed while they were gone.
 
 Rule W91 - Users will casually tell IT about a problem when the tech is working on something else.
 Rule W91A - This has been happening for a long time.
@@ -269,3 +275,8 @@ Rule W95 - Users will submit tickets on Friday at 4:50PM and go home.
 Rule W95A - Users will duplicate the ticket on Monday at 9:10AM.
 Rule W95B - Users will think 76 hours have passed between these requests.
 Rule W95C - Techs will know that only 20 minutes has gone by between these requests.
+
+Rule W96 - Users will expect you to be reachable 24 hours a day, every day of the year.
+Rule W96A - Users will expect you to treat their forgotten password on a Saturday night as priority one.
+Rule W96B - Users will always call you directly, even when you are not on call.
+
