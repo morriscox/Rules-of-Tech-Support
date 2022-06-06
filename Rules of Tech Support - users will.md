@@ -327,7 +327,7 @@ Credits are listed there. The requirements for being listed here is that the mai
 
 **Rule W90F** - After noting multiple attempts at contact and closing the ticket, following procedure, the user will reopen the ticket or make a new ticket and complain that you didn’t contact them or fix their problem.
 
-**Rule W90G** - User will log a ticket minutes before going on vacation, claim it is for one week long, actually be on vacation for two weeks, and then ask why this wasn't fixed while they were gone.
+**Rule W90G** - User will log a ticket minutes before going on vacation, claim it is for one week long, actually be on vacation for at least two weeks, and then ask why this wasn't fixed while they were gone.
 
 #### Rule W91 - Users will casually tell IT about a problem when the tech is working on something else.
 
