@@ -374,6 +374,8 @@
 
 **Rule 404A** - If a page is not found, then the entire site|Internet is down.
 
+**Rule 404B** - Online manuals will disappear without warning.  Download a copy for yourself.
+
 #### Rule 600613 - Used to go to websites instead of going directly.
 
 #### Rule Ferengi - Users want their problem fixed quickly.  Bribes will ensure they will be. - /u/trro16p
