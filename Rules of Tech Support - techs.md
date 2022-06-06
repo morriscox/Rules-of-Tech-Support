@@ -38,6 +38,10 @@
 
 **Rule T9C** - If you can't restore from it, you don't have a backup.
 
+**Rule T9D** - If you haven't tested your backup recently, you don't have a backup. - /u/CyberKnight1
+
+**Rule T9E** - A year ago is not "recently". - /u/CyberKnight1
+
 #### Rule T10 - Assume that there are also inside threats, even inside IT. It's not paranoia if they really are after you (or your stuff).
 
 **Rule T10A** - Don't trust your coworkers. They might be using *Rule T2A*.

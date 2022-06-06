@@ -66,4 +66,7 @@
 
 #### Rule M25 - The OSI model has layer 8 (user) and layer 9 (management).
 
+#### Rule M26 - Managers often have a checklist, which no one else will care about.
+
+
 #### Rule MAN - Who your manager is likely to be.

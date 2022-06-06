@@ -286,6 +286,9 @@ them until the place catches fire, then complain about incomplete documentation.
 
 **Rule 404A**: If a page is not found, then the entire site|Internet is down.
 
+**Rule 404B**: Online manuals will disappear without warning.  Download a copy for yourself. - /u/MikeSchwab63
+
+
 #### Rule 600613: Used to go to websites instead of going directly. - /u/vballboss
 
 #### Rule Ferengi: Users want their problem fixed quickly.  Bribes will ensure they will be. - /u/trro16p
@@ -559,6 +562,10 @@ them until the place catches fire, then complain about incomplete documentation.
 
 **Rule T9C**: If you can't restore from it, you don't have a backup. - /u/Alkalannar
 
+**Rule T9D**: If you haven't tested your backup recently, you don't have a backup. - /u/CyberKnight1
+
+**Rule T9E**: A year ago is not "recently". - /u/CyberKnight1
+
 #### Rule T10: Assume that there are also inside threats, even inside IT. It's not paranoia if they really are after you (or your stuff). - /u/morriscox
 
 **Rule T10B**: Don't even trust yourself. One error and you might cause serious damage or become a security leak. - /u/morriscox
@@ -583,9 +590,11 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule T18: You are incompetent. You just don't know it. At least, that's what your replacement will think. - /u/morriscox
 
-**Rule T18A**: You will have to deal with techs who are incompetent. - /u/morriscox
+**Rule T18A**: The tech that you replaced was incompetent and you have a huge mess that will take months to fix. - /u/morriscox
 
-**Rule T18B**: Sometimes, you really are incompetent. - /u/morriscox
+**Rule T18B**: You will have to deal with techs who are incompetent. - /u/morriscox
+
+**Rule T18C**: Sometimes, you really are incompetent. - /u/morriscox
 
 #### Rule T21: Use your inner laziness to do the most elegant solution possible. - /u/Alkalannar
 
@@ -657,6 +666,9 @@ them until the place catches fire, then complain about incomplete documentation.
 #### Rule M24: Management (and coworkers) will treat the help better than they treat you. - /u/Shurikane
 
 #### Rule M25: The OSI model has layer 8 (user) and layer 9 (management). - /u/Dirty_Socks
+
+#### Rule M26 - Managers often have a checklist, which no one else will care about. - /u/OldGreyTroll
+
 
 #### Rule MAN: Who your manager is likely to be. - /u/morriscox
 

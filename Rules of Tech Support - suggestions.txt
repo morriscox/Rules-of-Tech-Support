@@ -1,0 +1,41 @@
+-----
+/u/Geminii27
+
+W18E - Users will insist that you 'should have just known' about things they never reported.  
+W18F - Users will tell everyone except the IT department about the problem, and complain that it 'still' hasn't been fixed.
+
+W19A - Users will assume that anything affecting one device they are using is an office-wide or even global-scale problem.
+
+W24A1 - And act as if no-one could possibly know it because they don't.  
+W24A2 - And they will forget it by the next time they need to know it, whether that is in six months or six minutes.
+
+W28A1 - And will never consider whether they'd try to drive their car while their mechanic was working on it.
+
+W35A - Especially if that will fix the problem they specifically called to complain about.  
+W35B - Even if you never actually touched it, they just called or emailed you. Even if you never answered.
+
+W51A - Except if they spoke to you previously, whereapon they will call "the previous tech" all sorts of names and blame them for everything that happened since the dawn of creation.
+
+W60A - By "too old", users will mean that their equipment isn't as big, shiny, or featuring in as many recent ads as equipment being used by other people (including those in other organizations). Even if those other people have completely differnt jobs and equipment requirements.  
+W60B - Even if those other people never actually use the equipment they have been issued.  
+W60C - Even if the user will never use that equipment themselves.
+
+W64C - Or that the word 'wireless' applies to power as well as data.
+
+W69A - Even if it never worked on their computer.
+
+W77A - The ones who do this will never be ones you might appreciate doing this.
+
+W79A1 - Users will plug space heaters back in anywhere and kill the power in their area repeatedly until the space heater is locked away or ejected from the building.  
+W79A2 - Users will return the following year with a new space heater.
+
+W88B - Users will expect you to be instantly available for them at any time they call, no matter the time, the day of the week, or whether any other part of the company or country is open for business at that moment.
+
+- Users will call you, tell you to 'fix the thing', and then hang up and go on vacation without providing any information.
+They will then get mad at you when they return and the thing - whatever it might have been - hasn't been fixed. And the ticket has been closed because they didn't respond.
+
+- Printers and other peripherals are more a sign of social status than required functionality. Users will therefore demand that they have access to a bigger, more capable, and more private-use printer than anyone they perceive as being of lower status, or anyone they simply want to appear more important than. They will also demand the same peripherals (and access to them) as people they want to be seen as having the same social status as.
+
+- Users will believe anything that anyone else tells them about what computers can do, or have done, even if they never see evidence of such. Then they will complain that the computer they were issued doesn't do that. Even if it does.
+
+-----
