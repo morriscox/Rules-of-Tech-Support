@@ -625,6 +625,8 @@ them until the place catches fire, then complain about incomplete documentation.
 
 **Rule M3B**: You will be blamed when it doesn't work. - /u/techtornado, /u/Adventux
 
+**Rule M3C**: Especially when this is the first you are learning of this item even existing. - /u/BastPriestess
+
 #### Rule M4: Management will be puzzled as to why you have no clue about the thing they have no clue about... - /u/techtornado
 
 #### Rule M5: Management will expect you to be up to speed on their under the table projects, with decisions based only on what the salesman says, without consulting IT. - /u/techtornado
@@ -634,6 +636,10 @@ them until the place catches fire, then complain about incomplete documentation.
 #### Rule M7: Management will present impossible tasks to be done. - (deleted)
 
 **Rule M7A**: Management will then become outraged that said tasks were not completed. - (deleted)
+
+**Rule M8A**: Even if the equipment is not IT related. - /u/BastPriestess
+
+**Rule M8B**: Even if the equipment is IT related but is property of a third-party and thus their responsibility. - /u/BastPriestess
 
 #### Rule M13: Do not, in any circumstances, send private *anything* via email. Especially if you're the CEO. - /u/Eemo1
 
@@ -667,7 +673,15 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule M25: The OSI model has layer 8 (user) and layer 9 (management). - /u/Dirty_Socks
 
-#### Rule M26 - Managers often have a checklist, which no one else will care about. - /u/OldGreyTroll
+#### Rule M26: Managers often have a checklist, which no one else will care about. - /u/OldGreyTroll
+
+#### Rule M27: Managers will ask you to do something that is stupid/expensive/won’t work. - /u/BastPriestess
+
+Rule **M27A**: When they do, always ask for it in writing to CYA. - /u/BastPriestess
+
+Rule **M27B**: If they give it in writing, send a copy to your personal e-mail address. - /u/BastPriestess
+
+#### Rule M28: Buzzwords rule all decisions. - /u/TechnoJoeHouston
 
 
 #### Rule MAN: Who your manager is likely to be. - /u/morriscox

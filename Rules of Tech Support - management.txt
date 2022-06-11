@@ -7,14 +7,12 @@ Dealing with Management
 Rule M1 - Management might find these rules. Plead ignorance.
 
 Rule M2 - Never believe anything management tells you.
-
 Rule M2A - Especially if a merger or bad news is involved.
 
 Rule M3 - Management will order stuff they have no clue about.
-
 Rule M3A - Management will expect the thing they bought to work perfectly out of the box.
-
 Rule M3B - You will be blamed when it doesn't work.
+Rule M3C - Especially when this is the first you are learning of this item even existing.
 
 Rule M4 - Management will be puzzled as to why you have no clue about the thing they have no clue about...
 
@@ -23,10 +21,11 @@ Rule M5 - Management will expect you to be up to speed on their under the table 
 Rule M6 - Your boss will not have a tech background or a degree in your field.
 
 Rule M7 - Management will present impossible tasks to be done.
-
 Rule M7A - Management will then become outraged that said tasks were not completed.
 
 Rule M8 - Management will blame you when things do not work.
+Rule M8A - Even if the equipment is not IT related.
+Rule M8B - Even if the equipment is IT related but is property of a third-party and thus their responsibility.
 
 Rule M9 - Management will blame you if anything that was completed does not meet their expectations (they won't), no matter how difficult they were.
 
@@ -43,19 +42,15 @@ Rule M14 - You will never get interviewed by anyone who will actually understand
 Rule M15 - Management will give you a budget of zero dollars and expect you to work miracles.
 
 Rule M16 - Management never wants to pay to upgrade anything.
-
 Rule M16A - Unless it's for management.
 
 Rule M17 - Managers might fire you for going outside the scope of your job.
-
 Rule M17A - Managers will tell you to go outside the scope of your job, even if you don't report to them.
-
 Rule M17B - Users will insist on you going outside the scope of your job and threaten to have you fired if you don't.
 
 Rule M18 - Better tools and solutions exist. You just either don't know about them or you can't afford them. Even if you can, management won't let you get them.
 
 Rule M19 - Management only cares about productivity that is reported.
-
 Rule M19A - Find out what figure they think is the most important and focus your efforts on that.
 
 Rule M20 - Management will have you do their job for them.
@@ -71,6 +66,12 @@ Rule M24 - Management (and coworkers) will treat the help better than they treat
 Rule M25 - The OSI model has layer 8 (user) and layer 9 (management).
 
 Rule M26 - Managers often have a checklist, which no one else will care about.
+
+Rule M27 - Managers will ask you to do something that is stupid/expensive/won’t work.
+Rule M27A - When they do, always ask for it in writing to CYA.
+Rule M27B - If they give it in writing, send a copy to your personal e-mail address.
+
+Rule M28 - Buzzwords rule all decisions.
 
 
 Rule MAN - Who your manager is likely to be.

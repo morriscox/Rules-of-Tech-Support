@@ -12,6 +12,8 @@
 
 **Rule M3B** - You will be blamed when it doesn't work.
 
+**Rule M3C** - Especially when this is the first you are learning of this item even existing.
+
 #### Rule M4 - Management will be puzzled as to why you have no clue about the thing they have no clue about...
 
 #### Rule M5 - Management will expect you to be up to speed on their under the table projects, with decisions based only on what the salesman says, without consulting IT.
@@ -23,6 +25,10 @@
 **Rule M7A** - Management will then become outraged that said tasks were not completed.
 
 #### Rule M8 - Management will blame you when things do not work.
+
+**Rule M8A** - Even if the equipment is not IT related.
+
+**Rule M8B** - Even if the equipment is IT related but is property of a third-party and thus their responsibility.
 
 #### Rule M9 - Management will blame you if anything that was completed does not meet their expectations (they won't), no matter how difficult they were.
 
@@ -67,6 +73,14 @@
 #### Rule M25 - The OSI model has layer 8 (user) and layer 9 (management).
 
 #### Rule M26 - Managers often have a checklist, which no one else will care about.
+
+#### Rule M27 - Managers will ask you to do something that is stupid/expensive/won’t work.
+
+Rule **M27A** - When they do, always ask for it in writing to CYA.
+
+Rule **M27B** - If they give it in writing, send a copy to your personal e-mail address.
+
+#### Rule M28 - Buzzwords rule all decisions.
 
 
 #### Rule MAN - Who your manager is likely to be.
