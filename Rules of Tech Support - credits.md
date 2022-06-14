@@ -647,6 +647,8 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule M15: Management will give you a budget of zero dollars and expect you to work miracles. - /u/omglolbah
 
+**Rule M15A**: “Boss paralysis” happens when they ask you a question that needs a numeric answer, and they become catatonic until you say a number. Failing to recognize the nature of this condition may result in you having a budget of $911. - /u/wolfie379
+
 #### Rule M16: Management never wants to pay to upgrade anything. - /u/morriscox
 
 **Rule M16A**: Unless it's for management. - /u/morriscox

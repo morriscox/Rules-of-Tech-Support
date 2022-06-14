@@ -44,6 +44,8 @@
 
 #### Rule M15 - Management will give you a budget of zero dollars and expect you to work miracles.
 
+**Rule M15A** - “Boss paralysis” happens when they ask you a question that needs a numeric answer, and they become catatonic until you say a number. Failing to recognize the nature of this condition may result in you having a budget of $911.
+
 #### Rule M16 - Management never wants to pay to upgrade anything.
 
 **Rule M16A** - Unless it's for management.
