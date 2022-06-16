@@ -378,5 +378,4 @@
 
 #### Rule 600613 - Used to go to websites instead of going directly.
 
-#### Rule Ferengi - Users want their problem fixed quickly.  Bribes will ensure they will be. - /u/trro16p
-
+#### Rule Ferengi - Users want their problem fixed quickly.  Bribes will ensure they will be.
