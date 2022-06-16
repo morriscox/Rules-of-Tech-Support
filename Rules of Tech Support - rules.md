@@ -330,7 +330,7 @@
 
 #### Rule 82 - Temporary solutions aren't.
 
-#### Rule 83 - Rule 83 - Every company has a Production environment and a Testing environment. If you're lucky, they are separate environments.
+#### Rule 83 - Every company has a Production environment and a Testing environment. If you're lucky, they are separate environments.
 
 #### Rule 84 - Users already have a certificate of proficiency in computering.
 
