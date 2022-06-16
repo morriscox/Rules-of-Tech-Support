@@ -50,6 +50,8 @@ Credits are listed there. The requirements for being listed here is that the mai
 
 **Rule W11A** - Users will often have one phrase for everything, like "The Internet is down".
 
+**Rule W11B** - People who think *any* piece of hardware is actually the computer, even a power strip.
+
 #### Rule W12 - Users will refuse to take any training since they consider it to be a waste of time.
 
 #### Rule W13 - Users will claim that they are not stupid even after ample evidence.
@@ -295,6 +297,7 @@ Credits are listed there. The requirements for being listed here is that the mai
 #### Rule W85 - Users will not give you the entire error code or message.
 
 #### Rule W85A - And/Or ramble on about other things.
+
 #### W86: Users will refuse to troubleshoot, because it takes too much time.
 
 **Rule W86A** - Users will then complain about being unable to work for an even longer time.
