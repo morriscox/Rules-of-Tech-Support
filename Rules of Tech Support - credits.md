@@ -315,7 +315,7 @@ them until the place catches fire, then complain about incomplete documentation.
 
 **Rule W11A**: Users will often have one word or phrase such as "The Internet is down" for everything. /u/morriscox
 
-**Rule W11B**: People who think *any* piece of hardware is actually the computer, even a power strip. - /u/bwaatamelon
+**Rule W11B**: People will think *any* piece of hardware is actually the computer, even a power strip. - /u/bwaatamelon
 
 #### Rule W14: Users will be certain that the laws of physics and the (current) limits of technology do not apply. - /u/FlyingSpaceLlama
 

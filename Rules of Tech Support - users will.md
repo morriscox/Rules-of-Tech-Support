@@ -50,7 +50,7 @@ Credits are listed there. The requirements for being listed here is that the mai
 
 **Rule W11A** - Users will often have one phrase for everything, like "The Internet is down".
 
-**Rule W11B** - People who think *any* piece of hardware is actually the computer, even a power strip.
+**Rule W11B** - People will think *any* piece of hardware is actually the computer, even a power strip.
 
 #### Rule W12 - Users will refuse to take any training since they consider it to be a waste of time.
 
