@@ -368,6 +368,8 @@
 
 #### Rule 100 - A theme, especially a system theme, will make it difficult to read anything.
 
+#### Rule 101 - Urgent isn't.
+
 
 
 #### Rule 404 - You will never find it. See https://www.explainxkcd.com/404

@@ -281,6 +281,8 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule 100: A theme, especially a system theme, will make it difficult to read anything. - /u/SeanBZA
 
+#### Rule 101 - Urgent isn't. - /u/unholy0079
+
 
 #### Rule 404: You will never find it. See https://www.explainxkcd.com/404 - /u/1089maths
 
