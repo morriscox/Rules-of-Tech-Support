@@ -370,6 +370,7 @@
 
 #### Rule 101 - Urgent isn't.
 
+#### Rule 102 - Someday you will forget to use the mute button. Double mute.
 
 
 #### Rule 404 - You will never find it. See https://www.explainxkcd.com/404
