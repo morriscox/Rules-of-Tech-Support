@@ -422,6 +422,7 @@ Rule W90G: User will log a ticket minutes before going on vacation, claim it is 
 Rule W91: Users will casually tell IT about a problem when the tech is working on something else. - /u/BastPriestness
 Rule W91A: This has been happening for a long time. - /u/BastPriestness
 Rule W91B: Multiple people have been having this problem yet no one has bothered to tell anyone. See *Rule W90C*. - /u/BastPriestness
+Rule W91C: They won't even bother telling you, just complain to each other within earshot. /u/Boryce
 
 Rule W92: Users will use you as a scapegoat. - /u/SeanBZA
 

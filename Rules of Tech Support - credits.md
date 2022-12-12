@@ -519,6 +519,8 @@ them until the place catches fire, then complain about incomplete documentation.
 
 **Rule W91B**: Multiple people have been having this problem yet no one has bothered to tell anyone. See *Rule W90C*. - /u/BastPriestness
 
+**Rule W91C**: They won't even bother telling you, just complain to each other within earshot. - /u/Boryce
+
 #### Rule W92: Users will use you as a scapegoat. - /u/SeanBZA
 
 #### Rule W93: Users will use screenshots to submit error codes but leave out critical information. - /u/rdrunner_74

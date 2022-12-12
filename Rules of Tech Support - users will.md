@@ -338,6 +338,8 @@ Credits are listed there. The requirements for being listed here is that the mai
 
 **Rule W91B** - Multiple people have been having this problem yet no one has bothered to tell anyone. See *Rule W90C*.
 
+**Rule W91C** - They won't even bother telling you, just complain to each other within earshot.
+
 #### Rule W92 - Users will use you as a scapegoat.
 
 #### Rule W93 - Users will use screenshots to submit error codes but leave out critical information.
