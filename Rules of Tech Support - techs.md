@@ -98,6 +98,10 @@
 
 #### Rule T25 - Your fellow techs will expect you to be their tech support.
 
+### Rule T26 - A tech will install equipment in dangerous environments.
+
+### Rule T27 - Third part IT will remove equipment and not tell you or the user.
+
 
 
 **Rule T568A** - white green, green, white orange, blue, white blue, orange, white brown, brown
