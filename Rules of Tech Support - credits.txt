@@ -440,6 +440,8 @@ Rule W96: Users will expect you to be reachable 24 hours a day, every day of the
 Rule W96A: Users will expect you to treat their forgotten password on a Saturday night as priority one. - /u/DoctorOctagonapus
 Rule W96B: Users will always call you directly, even when you are not on call. - /u/DoctorOctagonapus
 
+Rule W97 - Users will throw away important stuff because they think it's not important. - /u/ammit_souleater
+
 *****
 
  Techs

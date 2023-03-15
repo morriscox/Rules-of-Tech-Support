@@ -541,6 +541,9 @@ them until the place catches fire, then complain about incomplete documentation.
 
 **Rule W96B** - Users will always call you directly, even when you are not on call.- /u/DoctorOctagonapus
 
+
+**Rule W97** - Users will throw away important stuff because they think it's not important. - /u/ammit_souleater
+
 *****
 # Techs
 

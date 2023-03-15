@@ -359,3 +359,6 @@ Credits are listed there. The requirements for being listed here is that the mai
 **Rule W96A** - Users will expect you to treat their forgotten password on a Saturday night as priority one.
 
 **Rule W96B** - Users will always call you directly, even when you are not on call.
+
+
+**Rule W97** - Users will throw away important stuff because they think it's not important.
