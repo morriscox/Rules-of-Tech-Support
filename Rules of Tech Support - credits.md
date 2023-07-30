@@ -623,7 +623,9 @@ them until the place catches fire, then complain about incomplete documentation.
 
 ### Rule T27 - Third part IT will remove equipment and not tell you or the user. - /u/Baldussimo
 
-### Rule T28 - The biggest enemoy of good IT is that they are outnumbered by lazy IT. - /u/Ims0c0nfus3d
+### Rule T28 - The biggest enemy of good IT is that they are outnumbered by lazy IT. - /u/Ims0c0nfus3d
+
+### Rule T29 - Grow a beard so that people don't recognize you. - /u/Slightlyevolved
 
 **Rule T568A**: white green, green, white orange, blue, white blue, orange, white brown, brown - /u/ABCDwp
 

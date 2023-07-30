@@ -102,8 +102,9 @@
 
 ### Rule T27 - Third part IT will remove equipment and not tell you or the user.
 
+### Rule T28 - The biggest enemy of good IT is that they are outnumbered by lazy IT.
 
-### Rule T28 - The biggest enemoy of good IT is that they are outnumbered by lazy IT.
+### Rule T29 - Grow a beard so that people don't recognize you.
 
 
 **Rule T568A** - white green, green, white orange, blue, white blue, orange, white brown, brown
