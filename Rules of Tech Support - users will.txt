@@ -67,8 +67,11 @@ Rule W18A - Users will demand help at any hint of trouble.
 Rule W18B - The longer it takes to report it, the more urgent the user will claim that it is.
 Rule W18C - The time it takes to fix the issue is inversely proportional to the amount of time it took to report it.
 Rule W18D - The problem has retroactively been your responsibility for the months or years the user never told you about it, not just for the 10 minutes since they did.
+Rule W18E - Users will insist that you 'should have just known' about things they never reported.
+Rule W18F - Users will tell everyone except the IT department about the problem, and complain that it 'still' hasn't been fixed.
 
 Rule W19 - Users will believe something that can only affect one device can affect others by their mere presence.
+Rule W19A - Users will assume that anything affecting one device they are using is an office-wide or even global-scale problem.
 
 Rule W20 - Users will expect all devices to know that it is them.
 Rule W20A - Users will believe anything that can connect to anything can completely control that thing.
@@ -87,6 +90,7 @@ Rule W23D - This will be your fault.
 
 Rule W24 - Users will expect you to teach them stuff they should have learned in school.
 Rule W24A - That users should have learned in primary school.
+Rule W24A-1 - And act as if no one could possibly know it because they don't.
 Rule W24B - Users will think that a single course is sufficient.
 
 Rule W25 - Users will try to do things like type in uppercase numbers.
@@ -159,6 +163,7 @@ Rule W49 - Users will complain about your security measures but will claim that 
 Rule W50 - Users will give the wrong name of a product, even with the name right in front of them.
 
 Rule W51 - Users will confuse you with other/previous techs.
+Rule W51A - Except if they spoke to you previously, whereapon they will call "the previous tech" all sorts of names and blame them for everything that has ever happened.
 
 Rule W52 - Users will refuse to do anything that improves things for them yet go out of their way to make things difficult.
 
@@ -178,6 +183,9 @@ Rule W58A - The more they want that gear the less they need it.
 Rule W59 - Users will believe that it's safe to connect anything to the Internet.
 
 Rule W60 - Users will complain that their equipment is too old, even if freshly acquired.
+Rule W60A - By "too old", users will mean that their equipment isn't as big, shiny, or featuring in as many recent ads as equipment being used by other people (including those in other organizations). Even if those other people have completely different jobs and equipment requirements.
+Rule W60B - Even if those other people never actually use the equipment they have been issued.
+Rule W60C - Even if the user will never use that equipment themselves.
 
 Rule W61 - Users will be a lot more cautious if they have to pay upfront. Make sure they pay upfront for as much as you can.
 
@@ -190,6 +198,7 @@ Rule W63 - Users will misuse equipment and in very creative ways.
 Rule W64 - Users will expect everything to work without power.
 Rule W64A - Users will not realize that they need power.
 Rule W64B - Users will think that the Internet/network powers their devices.
+Rule W64C - Or that the word 'wireless' applies to power as well as data.
 
 Rule W65 - People will ask you for help with anything that uses electricity.
 Rule W65A - Or anything that doesn't.
@@ -201,6 +210,7 @@ Rule W67 - Users will have a certificate of proficiency in computering.
 Rule W68 - Users will do things other than what they have been asked to do.
 
 Rule W69 - Users will think that if it works on their computer then it will work on yours.
+Rule W69A - Even if it never worked on their computer.
 
 Rule W70 - Users will think that you can make hardware changes over the phone/Internet.
 Rule W70A - Users will believe that techo-kinesis exists.
@@ -219,11 +229,13 @@ Rule W76 - Users will insist on being ignorant, or claim that they are.
 Rule W76A - Since they don't want to be held responsible for their actions.
 
 Rule W77 - Users will flirt with you to get you to do things for them.
+Rule W77A - The ones who do this will never be ones you might appreciate doing this.
 
 Rule W78 - Users will insist on you going outside the scope of your job and threaten to have you fired if you don't.
 
 Rule W79 - Users will unplug things or plug them in in the incorrect place.
 Rule W79A - Users will unplug the UPS so they can plug in their coffe maker or space heater.
+Rule W79A-1 - Users will plug space heaters back in anywhere and kill the power in their area repeatedly until the space heater is locked away or ejected from the building.  
 Rule W79B - Users will plug everything into a surge protector and ignore the UPS.
 Rule W79C - Users will plug heavy duty equipment into the UPS.
 

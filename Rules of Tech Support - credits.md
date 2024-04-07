@@ -341,7 +341,13 @@ them until the place catches fire, then complain about incomplete documentation.
 
 **Rule W18D**: The problem has retroactively been your responsibility for the months or years the user never told you about it, not just for the 10 minutes since they did. - /u/Geminii27
 
+**Rule W18E** - Users will insist that you 'should have just known' about things they never reported. - /u/Geminii27
+
+**Rule W18F** - Users will tell everyone except the IT department about the problem, and complain that it 'still' hasn't been fixed. - /u/Geminii27
+
 #### Rule W19: Users will believe that something that can only affect one device can affect others by their mere presence. - /u/morriscox
+
+**Rule W19A** - Users will assume that anything affecting one device they are using is an office-wide or even global-scale problem. - /u/Geminii27
 
 #### Rule W20: Users will expect all devices to know that it is them. - /u/morriscox
 
@@ -360,6 +366,8 @@ them until the place catches fire, then complain about incomplete documentation.
 #### Rule W24: Users expect you to teach them stuff that they should have learned in school. - /u/morriscox
 
 **Rule W24A**: That users should have learned in primary school. - /u/unkiepunkie
+
+**Rule W24A-1** - And act as if no one could possibly know it because they don't. - /u/Geminii27
 
 **Rule W26A**: They might not even be on the correct screen, page, website, or operating system. - /u/Adventux_MAYBE
 
@@ -401,6 +409,8 @@ them until the place catches fire, then complain about incomplete documentation.
 
 **Rule W48A**: And insist that it is, in fact, YOUR job, not theirs. /u/Geminii27
 
+**Rule W51A** - Except if they spoke to you previously, whereapon they will call "the previous tech" all sorts of names and blame them for everything that has ever happened. - /u/Geminii27
+
 #### Rule W55: Users will not know the phonetic alphabet, and will suggest the worst possible words. They will also refuse to use the ones you've previously used in the current conversation. - /u/Honest-Kruppe
 
 #### Rule W56: Users will believe every hoax. - /u/morriscox
@@ -410,6 +420,12 @@ them until the place catches fire, then complain about incomplete documentation.
 #### Rule W58: Users will be certain that IT has infinite faster/shinier/better gear that they are keeping for themselves. - /u/Manzabar
 
 **Rule W58A**: The more they want that gear the less they need it. - /u/Frazzledragon
+
+**Rule W60A** - By "too old", users will mean that their equipment isn't as big, shiny, or featuring in as many recent ads as equipment being used by other people (including those in other organizations). Even if those other people have completely different jobs and equipment requirements. - /u/Geminii27
+
+**Rule W60B** - Even if those other people never actually use the equipment they have been issued. - /u/Geminii27
+
+**Rule W60C** - Even if the user will never use that equipment themselves. - /u/Geminii27
 
 #### Rule W62: Users will never read the manual. - /u/morriscox
 
@@ -423,6 +439,8 @@ them until the place catches fire, then complain about incomplete documentation.
 
 **Rule W64B**: Users will think that the Internet/network powers their devices. - /u/MotherMkfker
 
+**Rule W64C** - Or that the word 'wireless' applies to power as well as data. - /u/Geminii27
+
 #### Rule W65: People will ask you for help with anything that uses electricity. - morriscox
 
 **Rule W65A**: Or anything that doesn't. - /u/FlyingSpaceLlama
@@ -434,6 +452,8 @@ them until the place catches fire, then complain about incomplete documentation.
 #### Rule W68: Users will do things other than what they have been asked to do. - /u/Majahzi
 
 #### Rule W69: Users will think that if it works on their computer then it will work on yours. - /u/m31td0wn
+
+**Rule W69A** - Even if it never worked on their computer. - /u/Geminii27
 
 #### Rule W70: Users will think that you can make hardware changes over the phone/Internet. - /u/Ars-Torok
 
@@ -455,11 +475,15 @@ them until the place catches fire, then complain about incomplete documentation.
 
 #### Rule W77: Users will flirt with you to get you to do things for them. - /u/SpecificallyGeneral
 
+**Rule W77A** - The ones who do this will never be ones you might enjoy doing this. - /u/Geminii27
+
 #### Rule W78: Users will insist on you going outside the scope of your job and threaten to have you fired if you don't. - /u/morriscox
 
 #### Rule W79: Users will unplug things or plug them in in the incorrect place. - /u/insanitychasesme
 
 **Rule W79A**: Users will unplug the UPS so they can plug in their coffee maker or space heater. - /u/APsWhoopinRoom, /u/RedditVince
+
+**Rule W79A-1** - Users will plug space heaters back in anywhere and kill the power in their area repeatedly until the space heater is locked away or ejected from the building. - /u/Geminii27
 
 **Rule W79B**: Users will plug everything into a surge protector and ignore the UPS. - /u/r_golan_trevize
 

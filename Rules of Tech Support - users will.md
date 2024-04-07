@@ -88,7 +88,13 @@ Credits are listed there. The requirements for being listed here is that the mai
 
 **Rule W18D** - The problem has retroactively been your responsibility for the months or years the user never told you about it, not just for the 10 minutes since they did.
 
+**Rule W18E** - Users will insist that you 'should have just known' about things they never reported.
+
+**Rule W18F** - Users will tell everyone except the IT department about the problem, and complain that it 'still' hasn't been fixed.
+
 #### Rule W19 - Users will believe something that can only affect one device can affect others by their mere presence.
+
+**Rule W19A** - Users will assume that anything affecting one device they are using is an office-wide or even global-scale problem.
 
 #### Rule W20 - Users will expect all devices to know that it is them.
 
@@ -115,6 +121,8 @@ Credits are listed there. The requirements for being listed here is that the mai
 #### Rule W24 - Users will expect you to teach them stuff they should have learned in school.
 
 **Rule W24A** - That users should have learned in primary school.
+
+**Rule W24A-1** - And act as if no one could possibly know it because they don't.
 
 **Rule W24B** - Users will think that a single course is sufficient.
 
@@ -206,6 +214,8 @@ Credits are listed there. The requirements for being listed here is that the mai
 
 #### Rule W51 - Users will confuse you with other/previous techs.
 
+**Rule W51A** - Except if they spoke to you previously, whereapon they will call "the previous tech" all sorts of names and blame them for everything that has ever happened.
+
 #### Rule W52 - Users will refuse to do anything that improves things for them yet go out of their way to make things difficult.
 
 #### Rule W53 - Users will be confused about how case-sensitive works.
@@ -226,6 +236,12 @@ Credits are listed there. The requirements for being listed here is that the mai
 
 #### Rule W60 - Users will complain that their equipment is too old, even if freshly acquired.
 
+**Rule W60A** - By "too old", users will mean that their equipment isn't as big, shiny, or featuring in as many recent ads as equipment being used by other people (including those in other organizations). Even if those other people have completely different jobs and equipment requirements.
+
+**Rule W60B** - Even if those other people never actually use the equipment they have been issued.
+
+**Rule W60C** - Even if the user will never use that equipment themselves.
+
 #### Rule W61 - Users will be a lot more cautious if they have to pay upfront. Make sure they pay upfront for as much as you can.
 
 #### Rule W62 - Users will never read the manual.
@@ -242,6 +258,8 @@ Credits are listed there. The requirements for being listed here is that the mai
 
 **Rule W64B** - Users will think that the Internet/network powers their devices.
 
+**Rule W64C** - Or that the word 'wireless' applies to power as well as data.
+
 #### Rule W65 - People will ask you for help with anything that uses electricity.
 
 **Rule W65A** - Or anything that doesn't.
@@ -253,6 +271,8 @@ Credits are listed there. The requirements for being listed here is that the mai
 #### Rule W68 - Users will do things other than what they have been asked to do.
 
 #### Rule W69 - Users will think that if it works on their computer then it will work on yours.
+
+**Rule W69A** - Even if it never worked on their computer.
 
 #### Rule W70 - Users will think that you can make hardware changes over the phone/Internet.
 
@@ -274,11 +294,17 @@ Credits are listed there. The requirements for being listed here is that the mai
 
 #### Rule W77 - Users will flirt with you to get you to do things for them.
 
+**Rule W77A** - The ones who do this will never be ones you might enjoy doing this.
+
 #### Rule W78 - Users will insist on you going outside the scope of your job and threaten to have you fired if you don't.
 
 #### Rule W79 - Users will unplug things or plug them in in the incorrect place.
 
 **Rule W79A** - Users will unplug the UPS so they can plug in their coffee maker or space heater.
+
+**Rule W79A-1** - Users will plug space heaters back in anywhere and kill the power in their area repeatedly until the space heater is locked away or ejected from the building.
+
+**Rule W79A-2** - Users will unplug the UPS so they can plug in their coffee maker or space heater.
 
 **Rule W79B** - Users will plug everything into a surge protector and ignore the UPS.
 

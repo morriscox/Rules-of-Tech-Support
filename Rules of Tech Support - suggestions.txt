@@ -1,12 +1,6 @@
 -----
 /u/Geminii27
 
-W18E - Users will insist that you 'should have just known' about things they never reported.  
-W18F - Users will tell everyone except the IT department about the problem, and complain that it 'still' hasn't been fixed.
-
-W19A - Users will assume that anything affecting one device they are using is an office-wide or even global-scale problem.
-
-W24A1 - And act as if no-one could possibly know it because they don't.  
 W24A2 - And they will forget it by the next time they need to know it, whether that is in six months or six minutes.
 
 W28A1 - And will never consider whether they'd try to drive their car while their mechanic was working on it.
@@ -16,17 +10,6 @@ W35B - Even if you never actually touched it, they just called or emailed you. E
 
 W51A - Except if they spoke to you previously, whereapon they will call "the previous tech" all sorts of names and blame them for everything that happened since the dawn of creation.
 
-W60A - By "too old", users will mean that their equipment isn't as big, shiny, or featuring in as many recent ads as equipment being used by other people (including those in other organizations). Even if those other people have completely differnt jobs and equipment requirements.  
-W60B - Even if those other people never actually use the equipment they have been issued.  
-W60C - Even if the user will never use that equipment themselves.
-
-W64C - Or that the word 'wireless' applies to power as well as data.
-
-W69A - Even if it never worked on their computer.
-
-W77A - The ones who do this will never be ones you might appreciate doing this.
-
-W79A1 - Users will plug space heaters back in anywhere and kill the power in their area repeatedly until the space heater is locked away or ejected from the building.  
 W79A2 - Users will return the following year with a new space heater.
 
 W88B - Users will expect you to be instantly available for them at any time they call, no matter the time, the day of the week, or whether any other part of the company or country is open for business at that moment.
