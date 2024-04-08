@@ -5,7 +5,7 @@
 ## The sections are: 
 
 ## Credits
-I have tried to give credit as best as I could. A number of these are from three or four years ago and I didn't think to keep track most of the time. I managed to find many of the contributors and their contributions using Google and Bing. However, some of the Rules kept the essence of a contribution but the wording changed so are not searchable. If you are certain that you inspired a Rule, let me know.
+I have tried to give credit as best as I could. A number of these are from years ago and I didn't think to keep track most of the time. I managed to find many of the contributors and their contributions using Google and Bing. However, some of the Rules kept the essence of a contribution but the wording changed so are not searchable. If you are certain that you inspired a Rule, let me know.
 ***
 ## Users
 The main section.  Rules that cannot fit elsewhere are put here.

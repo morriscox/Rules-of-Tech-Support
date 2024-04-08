@@ -14,3 +14,10 @@ Did the impossible for the ungrateful
 We have done so much for so long with so little  
 That we can now do anything with nothing.
 *****
+#### OM2A - We the Willing mantra
+
+We the willing, led by the unknowing  
+Did the impossible for the ungrateful
+We have done so much with so little for so long
+That we can now do everything, with nothing, forever.
+*****
