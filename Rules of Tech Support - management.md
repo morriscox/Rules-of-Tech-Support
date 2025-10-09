@@ -1,4 +1,4 @@
-Also at https://github.com/morriscox/Rules-of-Tech-Support/blob/master/Rules%20of%20Tech%20Support%20-management.md
+Also at https://github.com/morriscox/Rules-of-Tech-Support/blob/master/Rules%20of%20Tech%20Support%20-%20management.md
 
 The other sections of the Rules of Tech Support are available at https://https://github.com/morriscox/Rules-of-Tech-Support
 
