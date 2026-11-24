@@ -1,0 +1,38 @@
+***Created from and contributed to by the users of [/r/talesfromtechsupport](https://www.reddit.com/r/talesfromtechsupport)***
+***
+It's been a while since I have posted my Rules of Tech Support and there have been contributions. I have included links to prior posts to make it easier to get caught up on the history.  I haven't settled on a post schedule. There are six sections; however, two are very short.  I was thinking of posting one a week but that might be too frequent and I don't want to sour people on my posts. They are meant to be part serious, part humor, so there are silly rules.
+
+***
+#### Users - The main section.  Rules that cannot fit elsewhere are put here.
+https://www.reddit.com/r/talesfromtechsupport/comments/7ddtpq/rules_of_tech_support_with_credits/
+
+https://www.reddit.com/r/talesfromtechsupport/comments/7efnva/rules_of_tech_support_version_2/
+
+https://www.reddit.com/r/talesfromtechsupport/comments/7iqhnq/rules_of_tech_support_version_3/
+
+https://www.reddit.com/r/talesfromtechsupport/comments/81ce8r/rules_of_tech_support_version_4_or_032018/
+
+https://www.reddit.com/r/talesfromtechsupport/comments/mkud9j/rules_of_tech_support_20210405/
+
+https://www.reddit.com/r/talesfromtechsupport/comments/uyoqgd/rules_of_tech_support_20220526/
+
+https://www.reddit.com/r/talesfromtechsupport/comments/v03mse/rules_of_tech_support_20220528_revised_from/
+***
+#### Users Will - Rules that have "users will" in them.
+https://www.reddit.com/r/talesfromtechsupport/comments/v184sz/rules_of_tech_support_users_will_20220530/
+#### Tech Only  - Rules about dealing with other techs.
+https://www.reddit.com/r/talesfromtechsupport/comments/mnmtet/rules_of_tech_support_techs_20210409/
+
+https://www.reddit.com/r/talesfromtechsupport/comments/v41vaf/rules_of_tech_support_techs_20220503/
+#### Management - Rules about dealing with manglement.
+https://www.reddit.com/r/talesfromtechsupport/comments/mpic2y/rules_of_tech_support_management/
+
+https://www.reddit.com/r/talesfromtechsupport/comments/v6ekdj/rules_of_tech_support_management_20220606/
+#### Mantras - A tech version of meditations. Ommm...
+#### Phrases - Questions and statements by and to tech support.
+I am revamping the phrases section into two parts so that it now includes phrases that users say.
+
+https://www.reddit.com/r/talesfromtechsupport/comments/vccbqt/rules_of_tech_support_mantras_and_phrases_2022064/
+***
+The complete list, including credits, is at https://github.com/morriscox/Rules-of-Tech-Support
+*****

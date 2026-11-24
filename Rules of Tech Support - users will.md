@@ -134,7 +134,7 @@ Credits are listed there. The requirements for being listed here is that the mai
 
 #### Rule W27 - Users will click on things that say "Click Here!" or "Download Now" just because they think they are supposed to.
 
-**Rule W27A**- Unless that "Click Here!" or "Download Now" button is the one they are actually supposed to click on.
+**Rule W27A** - Unless that "Click Here!" or "Download Now" button is the one they are actually supposed to click on.
 
 #### Rule W28 - Users will try to use their computer while you are working on it, especially if you are not present.
 

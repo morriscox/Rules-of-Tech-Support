@@ -41,7 +41,7 @@
 
 **Rule 5C** - Or when they do, they won't have shared it with you or they entered an all-day event as taking an hour.
 
-**Rule 5D** - The problem will be solved by doing something you already asked them to but they said it didn't work. - /u/Responsible-Slide-95
+**Rule 5D** - The problem will be solved by doing something you already asked them to but they said it didn't work.
 
 #### Rule 6 - All users consider their situation to be more important than others, even if they know you are helping someone else.
 
